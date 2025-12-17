@@ -16,5 +16,87 @@ As a driven and enthusiastic software engineer, I relish the challenge of transf
 _(Automatically updated daily by GitHub Actions.)_
 
 <!-- REPO_LIST_START -->
-_Generation in progress — no data yet. Run the workflow or wait for the scheduled job._
+
+## Repositories grouped by year
+
+_Click a year to expand/collapse. Showing description, language, stars, forks, and topics._
+
+<details>
+<summary><strong>2025</strong> — 12 repos</summary>
+
+- [**AeroFighters-SNES-reinforce-learning**](https://github.com/NatBrian/AeroFighters-SNES-reinforce-learning) — Reinforce Learning AeroFighter Snes game using Gym Retro • `Python` • ★ 0 • 🍴 0 • Topics: arcade, dqn, game, gym, ppo, reinforcement-learning, retro, snes
+- [**AgenticReqToDesign**](https://github.com/NatBrian/AgenticReqToDesign) — Agentic AI transforming Business Requirements into Technical Detailed Design • `HTML` • ★ 0 • 🍴 0 • Topics: agentic-ai, ai, artificial-intelligence, autogen, gemini
+- [**bullet-hell-100kbbh-rl**](https://github.com/NatBrian/bullet-hell-100kbbh-rl) — Gymnasium env + DQN/Double-DQN to dodge bullets in 100KBBH. Live preview, video recording, TensorBoard, CSV logs, and HTML reports. • `Python` • ★ 0 • 🍴 0 • Topics: bullet-hell, dqn, game, pytorch, reinfocement-learning
+- [**CanvasAI**](https://github.com/NatBrian/CanvasAI) — Interactive 2D game development sandbox that allows you to create and modify games using the power of Google's Gemini AI • `TypeScript` • ★ 0 • 🍴 0 • Topics: 2d-game, ai, artificial-intelligence, game, game-development, gemini
+- [**chatgpt-from-scratch**](https://github.com/NatBrian/chatgpt-from-scratch) — A comprehensive, zero-dependency notebook to build a modern GPT from scratch. Implements Llama 3 architecture (RMSNorm, RoPE, SwiGLU) and trains on FineWeb-Edu using PyTorch. Educational, clean, and hackable. • `Jupyter Notebook` • ★ 0 • 🍴 0 • Topics: bigram, chatgpt, colab-notebook, llama3, llm, notebook, tokenization, transformer
+- [**gemini-chess**](https://github.com/NatBrian/gemini-chess) • `TypeScript` • ★ 0 • 🍴 0
+- [**interactive-mcq-trainer**](https://github.com/NatBrian/interactive-mcq-trainer) — A simple, elegant MCQ practice UI built with pure HTML, CSS, and JavaScript.  Auto-detects single/multiple answers and highlights correctness instantly.  Includes explanations, scoring summary, and review mode. • `JavaScript` • ★ 0 • 🍴 0 • Topics: exam, mcq, mcq-test, multiple-choice, notebooklm, quiz, test
+- [**mediapipe-hand-recognition**](https://github.com/NatBrian/mediapipe-hand-recognition) — Hand recognition system using MediaPipe for real-time hand tracking, static hand-sign classification, dynamic movement classification, and data collection for training custom ML models. • `Jupyter Notebook` • ★ 0 • 🍴 1 • Topics: handgesture-recognition, machine-learning, mediapipe, ml, supervised-learning
+- [**mini-rl-zoo**](https://github.com/NatBrian/mini-rl-zoo) — Educational RL framework with Q-learning, SARSA, DQN, A2C, and PPO implementations. Features multi-seed experimentation, automated analytics, and visualization for algorithm comparison. • `Python` • ★ 0 • 🍴 0 • Topics: cartpole, dqn, frozenlake, lunar-lander, pusher, q-learning, reinforcement-learning
+- [**pong-ai**](https://github.com/NatBrian/pong-ai) • `TypeScript` • ★ 0 • 🍴 0
+- [**web-image-gallery**](https://github.com/NatBrian/web-image-gallery) — A lightweight web application to extract all image URLs from a given website and display them in a dynamic, responsive gallery with infinite scrolling • `JavaScript` • ★ 0 • 🍴 0
+- [**wildlife-camera-trap-ai-system**](https://github.com/NatBrian/wildlife-camera-trap-ai-system) — AI-powered wildlife monitoring system powered by YOLOv8, with real-time detection and automatic video recording on the edge device. Metadata and thumbnails sync to a web dashboard for easy browsing and filtering. • `Jupyter Notebook` • ★ 0 • 🍴 0 • Topics: ai, animal, bird, camera, computer-vision, edge, onnx, wildlife, yolo
+
+</details>
+
+<details>
+<summary><strong>2024</strong> — 3 repos</summary>
+
+- [**ChatGPT-custom-instruction**](https://github.com/NatBrian/ChatGPT-custom-instruction) — personal experiments on ChatGPT custom instruction • `Unknown` • ★ 2 • 🍴 0
+- [**GeminiChatFile**](https://github.com/NatBrian/GeminiChatFile) — Chat File with Gemini • `Python` • ★ 1 • 🍴 9 • Topics: gemini, gemini-pro, llm
+- [**PollinationAI**](https://github.com/NatBrian/PollinationAI) — AI Image Generation https://pollinationsai.netlify.app/ • `Unknown` • ★ 1 • 🍴 0
+
+</details>
+
+<details>
+<summary><strong>2023</strong> — 7 repos</summary>
+
+- [**NewsFront**](https://github.com/NatBrian/NewsFront) — Classic News WebApp • `JavaScript` • ★ 2 • 🍴 0 • Topics: news, newsapi, newsapp
+- [**NatBrian**](https://github.com/NatBrian/NatBrian) • `Unknown` • ★ 0 • 🍴 0
+- [**scrollscape**](https://github.com/NatBrian/scrollscape) — Endless Photos Scrolling • `JavaScript` • ★ 0 • 🍴 0
+- [**simple-digital-business-card**](https://github.com/NatBrian/simple-digital-business-card) — Deploy digital business card in Firebase • `CSS` • ★ 0 • 🍴 0
+- [**trading-simulation**](https://github.com/NatBrian/trading-simulation) • `Go` • ★ 0 • 🍴 0
+- [**Ubuntu-Theme**](https://github.com/NatBrian/Ubuntu-Theme) • `JavaScript` • ★ 0 • 🍴 0
+- [**whatsapp-chatgpt**](https://github.com/NatBrian/whatsapp-chatgpt) • `Python` • ★ 0 • 🍴 0
+
+</details>
+
+<details>
+<summary><strong>2022</strong> — 1 repos</summary>
+
+- [**DecoratorDesignPattern**](https://github.com/NatBrian/DecoratorDesignPattern) — Example of Decorator Design Pattern In Go • `Go` • ★ 0 • 🍴 0
+
+</details>
+
+<details>
+<summary><strong>2021</strong> — 1 repos</summary>
+
+- [**Python-For-Data-Science-Essential-Training-Part-1**](https://github.com/NatBrian/Python-For-Data-Science-Essential-Training-Part-1) — Linkedin Learning https://www.linkedin.com/learning/python-for-data-science-essential-training-part-1 • `Jupyter Notebook` • ★ 0 • 🍴 0
+
+</details>
+
+<details>
+<summary><strong>2020</strong> — 7 repos</summary>
+
+- [**campus_indoor_map**](https://github.com/NatBrian/campus_indoor_map) — with mapbox and openstreetmap • `JavaScript` • ★ 0 • 🍴 0
+- [**EM-algorithm-implementation**](https://github.com/NatBrian/EM-algorithm-implementation) — Implement Expectation-Maximization algorithm • `Jupyter Notebook` • ★ 0 • 🍴 0
+- [**GameSalad**](https://github.com/NatBrian/GameSalad) • `Unknown` • ★ 0 • 🍴 0
+- [**Github-IO-Template-academicpages**](https://github.com/NatBrian/Github-IO-Template-academicpages) — Nathanael Brian Github Page • `JavaScript` • ★ 0 • 🍴 0
+- [**SG-Data-Structure**](https://github.com/NatBrian/SG-Data-Structure) — Snippet code of S-G-Tree and S-G-KD-Tree data structure • `Java` • ★ 0 • 🍴 0
+- [**TwoHatsGame**](https://github.com/NatBrian/TwoHatsGame) — Simulation game, where the user set up a hat color for each of the two people, either Blue or Red. If at least one of the two is right, they both win. They are allowed to come up with a plan in advance, but the adversary who is deciding which hats to put on them will hear the plan and will actively work against it. • `Java` • ★ 0 • 🍴 0
+- [**VideoPlayer**](https://github.com/NatBrian/VideoPlayer) — Video player with extra features, such as time stamp labeling • `JavaScript` • ★ 0 • 🍴 0
+
+</details>
+
+<details>
+<summary><strong>2019</strong> — 2 repos</summary>
+
+- [**Data-Science-Tutorial**](https://github.com/NatBrian/Data-Science-Tutorial) — Data Science pipeline tutorial • `HTML` • ★ 0 • 🍴 0
+- [**JapaneseTranslationDiagflow**](https://github.com/NatBrian/JapaneseTranslationDiagflow) — Japanese Translation Chat Bot (with voice recorder). Translation hasn't been implemented yet. • `Java` • ★ 0 • 🍴 0
+
+</details>
+
+
+_Last updated: 2025-12-17T10:38:44.911Z_
+
 <!-- REPO_LIST_END -->
