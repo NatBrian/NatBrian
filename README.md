@@ -29,11 +29,11 @@ _Click a year to expand/collapse. Showing description, language, stars, forks, a
 - [**bullet-hell-100kbbh-rl**](https://github.com/NatBrian/bullet-hell-100kbbh-rl) — Gymnasium env + DQN/Double-DQN to dodge bullets in 100KBBH. Live preview, video recording, TensorBoard, CSV logs, and HTML reports. • `Python` • ★ 0 • 🍴 0 • Topics: bullet-hell, dqn, game, pytorch, reinfocement-learning
 - [**CanvasAI**](https://github.com/NatBrian/CanvasAI) — Interactive 2D game development sandbox that allows you to create and modify games using the power of Google's Gemini AI • `TypeScript` • ★ 0 • 🍴 0 • Topics: 2d-game, ai, artificial-intelligence, game, game-development, gemini
 - [**chatgpt-from-scratch**](https://github.com/NatBrian/chatgpt-from-scratch) — A comprehensive, zero-dependency notebook to build a modern GPT from scratch. Implements Llama 3 architecture (RMSNorm, RoPE, SwiGLU) and trains on FineWeb-Edu using PyTorch. Educational, clean, and hackable. • `Jupyter Notebook` • ★ 0 • 🍴 0 • Topics: bigram, chatgpt, colab-notebook, llama3, llm, notebook, tokenization, transformer
-- [**gemini-chess**](https://github.com/NatBrian/gemini-chess) • `TypeScript` • ★ 0 • 🍴 0
+- [**gemini-chess**](https://github.com/NatBrian/gemini-chess) — A minimalist chess simulator powered by Google Gemini. This project uses the Gemini API to evaluate board states and generate moves via FEN strings. Featuring legal move validation, it provides a clean environment for testing LLM strategic reasoning and spatial awareness in a classic game setting. • `TypeScript` • ★ 0 • 🍴 0 • Topics: gemini, generative-ai, llm
 - [**interactive-mcq-trainer**](https://github.com/NatBrian/interactive-mcq-trainer) — A simple, elegant MCQ practice UI built with pure HTML, CSS, and JavaScript.  Auto-detects single/multiple answers and highlights correctness instantly.  Includes explanations, scoring summary, and review mode. • `JavaScript` • ★ 0 • 🍴 0 • Topics: exam, mcq, mcq-test, multiple-choice, notebooklm, quiz, test
 - [**mediapipe-hand-recognition**](https://github.com/NatBrian/mediapipe-hand-recognition) — Hand recognition system using MediaPipe for real-time hand tracking, static hand-sign classification, dynamic movement classification, and data collection for training custom ML models. • `Jupyter Notebook` • ★ 0 • 🍴 1 • Topics: handgesture-recognition, machine-learning, mediapipe, ml, supervised-learning
 - [**mini-rl-zoo**](https://github.com/NatBrian/mini-rl-zoo) — Educational RL framework with Q-learning, SARSA, DQN, A2C, and PPO implementations. Features multi-seed experimentation, automated analytics, and visualization for algorithm comparison. • `Python` • ★ 0 • 🍴 0 • Topics: cartpole, dqn, frozenlake, lunar-lander, pusher, q-learning, reinforcement-learning
-- [**pong-ai**](https://github.com/NatBrian/pong-ai) • `TypeScript` • ★ 0 • 🍴 0
+- [**pong-ai**](https://github.com/NatBrian/pong-ai) — A modern arcade classic fused with generative AI. Battle a digital opponent as Google Gemini (via Genkit) dynamically mutates the game after every point you score. Experience unpredictable shifts in gravity, physics, and scale in real-time. Where retro gameplay meets alchemical AI transformation. • `TypeScript` • ★ 0 • 🍴 0 • Topics: arcade, gemini, generative-ai, llm, pong
 - [**web-image-gallery**](https://github.com/NatBrian/web-image-gallery) — A lightweight web application to extract all image URLs from a given website and display them in a dynamic, responsive gallery with infinite scrolling • `JavaScript` • ★ 0 • 🍴 0
 - [**wildlife-camera-trap-ai-system**](https://github.com/NatBrian/wildlife-camera-trap-ai-system) — AI-powered wildlife monitoring system powered by YOLOv8, with real-time detection and automatic video recording on the edge device. Metadata and thumbnails sync to a web dashboard for easy browsing and filtering. • `Jupyter Notebook` • ★ 0 • 🍴 0 • Topics: ai, animal, bird, camera, computer-vision, edge, onnx, wildlife, yolo
 
@@ -55,7 +55,7 @@ _Click a year to expand/collapse. Showing description, language, stars, forks, a
 - [**NatBrian**](https://github.com/NatBrian/NatBrian) • `Unknown` • ★ 0 • 🍴 0
 - [**scrollscape**](https://github.com/NatBrian/scrollscape) — Endless Photos Scrolling • `JavaScript` • ★ 0 • 🍴 0
 - [**simple-digital-business-card**](https://github.com/NatBrian/simple-digital-business-card) — Deploy digital business card in Firebase • `CSS` • ★ 0 • 🍴 0
-- [**trading-simulation**](https://github.com/NatBrian/trading-simulation) • `Go` • ★ 0 • 🍴 0
+- [**trading-simulation**](https://github.com/NatBrian/trading-simulation) — A high-throughput trading simulation for calculating OHLC summaries from large transaction volumes. Built with a Go app server, it leverages Kafka for asynchronous message queuing and Redis for fast data persistence. Features include Protobuf for data serialization, Dockerized infrastructure, and an API for bulk transaction. • `Go` • ★ 0 • 🍴 0
 - [**Ubuntu-Theme**](https://github.com/NatBrian/Ubuntu-Theme) • `JavaScript` • ★ 0 • 🍴 0
 - [**whatsapp-chatgpt**](https://github.com/NatBrian/whatsapp-chatgpt) • `Python` • ★ 0 • 🍴 0
 
@@ -78,9 +78,9 @@ _Click a year to expand/collapse. Showing description, language, stars, forks, a
 <details>
 <summary><strong>2020</strong> — 7 repos</summary>
 
-- [**campus_indoor_map**](https://github.com/NatBrian/campus_indoor_map) — with mapbox and openstreetmap • `JavaScript` • ★ 0 • 🍴 0
+- [**campus_indoor_map**](https://github.com/NatBrian/campus_indoor_map) — Interactive University of Maryland campus indoor map with mapbox and openstreetmap • `JavaScript` • ★ 0 • 🍴 0 • Topics: mapbox, openstreetmap
 - [**EM-algorithm-implementation**](https://github.com/NatBrian/EM-algorithm-implementation) — Implement Expectation-Maximization algorithm • `Jupyter Notebook` • ★ 0 • 🍴 0
-- [**GameSalad**](https://github.com/NatBrian/GameSalad) • `Unknown` • ★ 0 • 🍴 0
+- [**GameSalad**](https://github.com/NatBrian/GameSalad) — Spanish Grammar Racing Game • `Unknown` • ★ 0 • 🍴 0 • Topics: game
 - [**Github-IO-Template-academicpages**](https://github.com/NatBrian/Github-IO-Template-academicpages) — Nathanael Brian Github Page • `JavaScript` • ★ 0 • 🍴 0
 - [**SG-Data-Structure**](https://github.com/NatBrian/SG-Data-Structure) — Snippet code of S-G-Tree and S-G-KD-Tree data structure • `Java` • ★ 0 • 🍴 0
 - [**TwoHatsGame**](https://github.com/NatBrian/TwoHatsGame) — Simulation game, where the user set up a hat color for each of the two people, either Blue or Red. If at least one of the two is right, they both win. They are allowed to come up with a plan in advance, but the adversary who is deciding which hats to put on them will hear the plan and will actively work against it. • `Java` • ★ 0 • 🍴 0
@@ -97,6 +97,6 @@ _Click a year to expand/collapse. Showing description, language, stars, forks, a
 </details>
 
 
-_Last updated: 2025-12-17T10:38:44.911Z_
+_Last updated: 2025-12-18T00:41:00.136Z_
 
 <!-- REPO_LIST_END -->
