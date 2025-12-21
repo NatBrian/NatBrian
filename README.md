@@ -22,13 +22,14 @@ _(Automatically updated daily by GitHub Actions.)_
 _Click a year to expand/collapse. Showing description, language, stars, forks, and topics._
 
 <details>
-<summary><strong>2025</strong> — 12 repos</summary>
+<summary><strong>2025</strong> — 13 repos</summary>
 
 - [**AeroFighters-SNES-reinforce-learning**](https://github.com/NatBrian/AeroFighters-SNES-reinforce-learning) — Reinforce Learning AeroFighter Snes game using Gym Retro • `Python` • ★ 0 • 🍴 0 • Topics: arcade, dqn, game, gym, ppo, reinforcement-learning, retro, snes
 - [**AgenticReqToDesign**](https://github.com/NatBrian/AgenticReqToDesign) — Agentic AI transforming Business Requirements into Technical Detailed Design • `HTML` • ★ 0 • 🍴 0 • Topics: agentic-ai, ai, artificial-intelligence, autogen, gemini
 - [**bullet-hell-100kbbh-rl**](https://github.com/NatBrian/bullet-hell-100kbbh-rl) — Gymnasium env + DQN/Double-DQN to dodge bullets in 100KBBH. Live preview, video recording, TensorBoard, CSV logs, and HTML reports. • `Python` • ★ 0 • 🍴 0 • Topics: bullet-hell, dqn, game, pytorch, reinfocement-learning
 - [**CanvasAI**](https://github.com/NatBrian/CanvasAI) — Interactive 2D game development sandbox that allows you to create and modify games using the power of Google's Gemini AI • `TypeScript` • ★ 0 • 🍴 0 • Topics: 2d-game, ai, artificial-intelligence, game, game-development, gemini
 - [**chatgpt-from-scratch**](https://github.com/NatBrian/chatgpt-from-scratch) — A comprehensive, zero-dependency notebook to build a modern GPT from scratch. Implements Llama 3 architecture (RMSNorm, RoPE, SwiGLU) and trains on FineWeb-Edu using PyTorch. Educational, clean, and hackable. • `Jupyter Notebook` • ★ 0 • 🍴 0 • Topics: bigram, chatgpt, colab-notebook, llama3, llm, notebook, tokenization, transformer
+- [**customer-transaction**](https://github.com/NatBrian/customer-transaction) — Customer Transaction Analysis • `Jupyter Notebook` • ★ 0 • 🍴 0
 - [**gemini-chess**](https://github.com/NatBrian/gemini-chess) — A minimalist chess simulator powered by Google Gemini. This project uses the Gemini API to evaluate board states and generate moves via FEN strings. Featuring legal move validation, it provides a clean environment for testing LLM strategic reasoning and spatial awareness in a classic game setting. • `TypeScript` • ★ 0 • 🍴 0 • Topics: gemini, generative-ai, llm
 - [**interactive-mcq-trainer**](https://github.com/NatBrian/interactive-mcq-trainer) — A simple, elegant MCQ practice UI built with pure HTML, CSS, and JavaScript.  Auto-detects single/multiple answers and highlights correctness instantly.  Includes explanations, scoring summary, and review mode. • `JavaScript` • ★ 0 • 🍴 0 • Topics: exam, mcq, mcq-test, multiple-choice, notebooklm, quiz, test
 - [**mediapipe-hand-recognition**](https://github.com/NatBrian/mediapipe-hand-recognition) — Hand recognition system using MediaPipe for real-time hand tracking, static hand-sign classification, dynamic movement classification, and data collection for training custom ML models. • `Jupyter Notebook` • ★ 0 • 🍴 1 • Topics: handgesture-recognition, machine-learning, mediapipe, ml, supervised-learning
@@ -97,6 +98,6 @@ _Click a year to expand/collapse. Showing description, language, stars, forks, a
 </details>
 
 
-_Last updated: 2025-12-20T00:41:45.427Z_
+_Last updated: 2025-12-21T00:48:15.132Z_
 
 <!-- REPO_LIST_END -->
