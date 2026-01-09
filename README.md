@@ -22,6 +22,13 @@ _(Automatically updated daily by GitHub Actions.)_
 _Click a year to expand/collapse. Showing description, language, stars, forks, and topics._
 
 <details>
+<summary><strong>2026</strong> — 1 repos</summary>
+
+- [**LLMTradingAgents**](https://github.com/NatBrian/LLMTradingAgents) — LLMTradingAgents is an automated trading system that orchestrates competition between different Large Language Models (LLMs). It uses a 3-agent architecture to analyze market data, propose trades, and validate risk. • `Python` • ★ 0 • 🍴 0 • Topics: ai-agents, cryptocurrency, finance, langchain, llm, marketing-analytics, stock, trading, trading-algorithms, vite
+
+</details>
+
+<details>
 <summary><strong>2025</strong> — 13 repos</summary>
 
 - [**AeroFighters-SNES-reinforce-learning**](https://github.com/NatBrian/AeroFighters-SNES-reinforce-learning) — Reinforce Learning AeroFighter Snes game using Gym Retro • `Python` • ★ 0 • 🍴 0 • Topics: arcade, dqn, game, gym, ppo, reinforcement-learning, retro, snes
@@ -98,6 +105,6 @@ _Click a year to expand/collapse. Showing description, language, stars, forks, a
 </details>
 
 
-_Last updated: 2026-01-08T01:03:15.302Z_
+_Last updated: 2026-01-09T01:03:59.871Z_
 
 <!-- REPO_LIST_END -->
