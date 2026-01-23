@@ -1,0 +1,111 @@
+on:
+  schedule:
+    - cron: '0 3 * * 0' # weekly on Sunday at 03:00 UTC
+  workflow_dispatch:
+    inputs:
+      target:
+        description: 'GitHub username or org whose PUBLIC repos will be scanned'
+        required: true
+        default: 'NatBrian'
+      per_page:
+        description: 'Number of repos per page for listing (max 100)'
+        required: false
+        default: '100'
+
+jobs:
+  scan-public-repos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout scanner repo
+        uses: actions/checkout@v4
+
+      - name: Install prerequisites and gitleaks
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq git curl
+          curl -sSL https://github.com/zricethezav/gitleaks/releases/latest/download/gitleaks-linux-amd64 -o /usr/local/bin/gitleaks
+          chmod +x /usr/local/bin/gitleaks
+
+      - name: List public repos for user/org (no token)
+        id: list_repos
+        run: |
+          USER_OR_ORG="${{ github.event.inputs.target || github.event.inputs.target }}"
+          PER_PAGE="${{ github.event.inputs.per_page || '100' }}"
+          page=1
+          out=repos_to_scan.txt
+          > $out
+          # Try org first; fallback to user endpoint if org returns empty
+          while :; do
+            resp=$(curl -s "https://api.github.com/orgs/${USER_OR_ORG}/repos?type=public&per_page=${PER_PAGE}&page=${page}")
+            count=$(echo "$resp" | jq 'length')
+            if [ "$count" -eq 0 ] && [ "$page" -eq 1 ]; then
+              resp=$(curl -s "https://api.github.com/users/${USER_OR_ORG}/repos?type=public&per_page=${PER_PAGE}&page=${page}")
+              count=$(echo "$resp" | jq 'length')
+            fi
+            if [ "$count" -eq 0 ]; then break; fi
+            echo "$resp" | jq -r '.[].full_name' >> $out
+            page=$((page+1))
+          done
+          echo "repos_file=$out" >> $GITHUB_OUTPUT
+          echo "Found $(wc -l < $out) public repos to scan"
+
+      - name: Clone each public repo and run gitleaks
+        run: |
+          set -euo pipefail
+          repos_file="${{ steps.list_repos.outputs.repos_file }}"
+          mkdir -p reports
+          while IFS= read -r repo; do
+            echo "Scanning $repo"
+            tmpdir=$(mktemp -d)
+            # anonymous clone of public repo (no token)
+            git clone --depth=1 "https://github.com/${repo}.git" "$tmpdir" || { echo "Clone failed for $repo"; rm -rf "$tmpdir"; continue; }
+            /usr/local/bin/gitleaks detect --source="$tmpdir" --report-format=json --report-path="reports/${repo//\//_}-gitleaks.json" || true
+            rm -rf "$tmpdir"
+          done < "$repos_file"
+
+      - name: Upload reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: gitleaks-reports
+          path: reports
+
+      - name: Summarize findings and create central issue (if any)
+        if: always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = 'reports';
+            if (!fs.existsSync(path)) { core.info('No reports directory'); return; }
+            const files = fs.readdirSync(path).filter(f => f.endsWith('-gitleaks.json'));
+            let total = 0;
+            const summary = [];
+            for (const f of files) {
+              const raw = fs.readFileSync(`${path}/${f}`, 'utf8');
+              if (!raw) continue;
+              const data = JSON.parse(raw || '[]');
+              if (data && data.length > 0) {
+                total += data.length;
+                summary.push({ repo: f.replace('-gitleaks.json','').replace(/_/g,'/'), findings: Math.min(10, data.length), sample: data.slice(0,3).map(d => ({rule:d.rule, file:d.file, line:d.start_line})) });
+              }
+            }
+            if (total === 0) {
+              core.info('No leaks detected across public repos');
+              return;
+            }
+            const target = (process.env.GITHUB_EVENT_INPUTS && process.env.GITHUB_EVENT_INPUTS.target) || 'NatBrian';
+            const title = `Public repo secret scan found ${total} potential leak(s) for ${target}`;
+            const body = [
+              `gitleaks detected potential secrets across public repos for ${target}.`,
+              '',
+              'Summary (per-repo):',
+              ...summary.map(s => `- ${s.repo}: ~${s.findings} items, samples: ${JSON.stringify(s.sample)}`),
+              '',
+              'Reports are uploaded as workflow artifacts. Rotate any confirmed credentials immediately and remove them from repo history.'
+            ].join('\n\n');
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title,
+              body
+            });
