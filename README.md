@@ -22,8 +22,9 @@ _(Automatically updated daily by GitHub Actions.)_
 _Click a year to expand/collapse. Showing description, language, stars, forks, and topics._
 
 <details>
-<summary><strong>2026</strong> — 1 repos</summary>
+<summary><strong>2026</strong> — 2 repos</summary>
 
+- [**nashville-traffic-stop-bias-analysis**](https://github.com/NatBrian/nashville-traffic-stop-bias-analysis) • `Jupyter Notebook` • ★ 1 • 🍴 0
 - [**LLMTradingAgents**](https://github.com/NatBrian/LLMTradingAgents) — LLMTradingAgents is an automated trading system that orchestrates competition between different Large Language Models (LLMs). It uses a 3-agent architecture to analyze market data, propose trades, and validate risk. • `Python` • ★ 0 • 🍴 0 • Topics: ai-agents, cryptocurrency, finance, langchain, llm, marketing-analytics, stock, trading, trading-algorithms, vite
 
 </details>
@@ -105,6 +106,6 @@ _Click a year to expand/collapse. Showing description, language, stars, forks, a
 </details>
 
 
-_Last updated: 2026-01-28T01:04:23.224Z_
+_Last updated: 2026-01-29T01:14:02.701Z_
 
 <!-- REPO_LIST_END -->
