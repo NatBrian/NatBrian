@@ -67,7 +67,7 @@ _(Automatically updated daily by GitHub Actions.)_
 _Click a year to expand/collapse. Showing description, language, stars, forks, and topics._
 
 <details>
-<summary><strong>2026</strong> — 10 repos</summary>
+<summary><strong>2026</strong> — 11 repos</summary>
 
 - [**LLMTradingAgents**](https://github.com/NatBrian/LLMTradingAgents) — LLMTradingAgents is an automated trading system that orchestrates competition between different Large Language Models (LLMs). It uses a 3-agent architecture to analyze market data, propose trades, and validate risk. • `Python` • ★ 1 • 🍴 0 • Topics: ai-agents, cryptocurrency, finance, langchain, llm, marketing-analytics, stock, trading, trading-algorithms, vite
 - [**nashville-traffic-stop-bias-analysis**](https://github.com/NatBrian/nashville-traffic-stop-bias-analysis) — End-to-end analysis of racial bias in Nashville Police Department traffic stops using interpretable machine learning, statistical tests, and fairness audits • `Jupyter Notebook` • ★ 1 • 🍴 0
@@ -78,6 +78,7 @@ _Click a year to expand/collapse. Showing description, language, stars, forks, a
 - [**Dyslexia-Web-Reader**](https://github.com/NatBrian/Dyslexia-Web-Reader) — Help dyslexia struggle via Chrome Extension (Manifest V3) that converts web articles into a distraction-free reader view with adjustable typography, guided reading, text-to-speech, and optional LLM-powered simplification. • `TypeScript` • ★ 0 • 🍴 1
 - [**HT-VideoGraph**](https://github.com/NatBrian/HT-VideoGraph) — HT-VideoGraph is the first Hierarchical Temporal Knowledge Graph (HTKG) for long video understanding. It addresses the fundamental limitations of current video RAG methods by modeling videos at multiple temporal granularities with multi-modal feature preservation. • `Python` • ★ 0 • 🍴 0
 - [**llm-wiki-bench**](https://github.com/NatBrian/llm-wiki-bench) • `Python` • ★ 0 • 🍴 0
+- [**NBME-ScoreClinicalPatientNotes**](https://github.com/NatBrian/NBME-ScoreClinicalPatientNotes) — Kaggle NLP competition where the task is to identify clinical feature expressions in free-text patient notes written by medical students • `Jupyter Notebook` • ★ 0 • 🍴 0
 - [**whatsapp-ai-recall**](https://github.com/NatBrian/whatsapp-ai-recall) — WAIR: A privacy-first, local-only AI assistant for WhatsApp. Indexes chat history into an encrypted SQLite database using hybrid RAG (vector + full-text) and local LLMs (Ollama). Zero data leaves your machine. • `TypeScript` • ★ 0 • 🍴 0
 
 </details>
@@ -159,6 +160,6 @@ _Click a year to expand/collapse. Showing description, language, stars, forks, a
 </details>
 
 
-_Last updated: 2026-04-30T02:04:25.995Z_
+_Last updated: 2026-05-01T02:08:37.264Z_
 
 <!-- REPO_LIST_END -->
