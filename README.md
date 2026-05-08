@@ -67,11 +67,10 @@ _(Automatically updated daily by GitHub Actions.)_
 _Click a year to expand/collapse. Showing description, language, stars, forks, and topics._
 
 <details>
-<summary><strong>2026</strong> — 11 repos</summary>
+<summary><strong>2026</strong> — 10 repos</summary>
 
 - [**LLMTradingAgents**](https://github.com/NatBrian/LLMTradingAgents) — LLMTradingAgents is an automated trading system that orchestrates competition between different Large Language Models (LLMs). It uses a 3-agent architecture to analyze market data, propose trades, and validate risk. • `Python` • ★ 1 • 🍴 0 • Topics: ai-agents, cryptocurrency, finance, langchain, llm, marketing-analytics, stock, trading, trading-algorithms, vite
 - [**nashville-traffic-stop-bias-analysis**](https://github.com/NatBrian/nashville-traffic-stop-bias-analysis) — End-to-end analysis of racial bias in Nashville Police Department traffic stops using interpretable machine learning, statistical tests, and fairness audits • `Jupyter Notebook` • ★ 1 • 🍴 0
-- [**NBME-ScoreClinicalPatientNotes**](https://github.com/NatBrian/NBME-ScoreClinicalPatientNotes) — Kaggle NLP competition where the task is to identify clinical feature expressions in free-text patient notes written by medical students • `Jupyter Notebook` • ★ 1 • 🍴 0
 - [**artist-popularity-m3u8-playlist-generator**](https://github.com/NatBrian/artist-popularity-m3u8-playlist-generator) — Pipeline that builds two 1500-track M3U8 playlists (popularity-first + deep cuts) from an ordered artist taxonomy. Aggregates iTunes & Deezer data, ranks tracks, enforces zero-overlap, validates structure, and supports precise per-artist quota control via CSV with priority-based allocation logic • `Python` • ★ 0 • 🍴 0 • Topics: deezer, itunes, m3u8, m3u8-playlist, music, playlist, song, youtube, youtube-music, youtube-playlist
 - [**auto-research-finance**](https://github.com/NatBrian/auto-research-finance) — Autonomous, auditable quantitative finance agents orchestrated via Claude Code. Implements MCP-based tooling, multi-agent trading debates, arXiv-to-factor pipelines for reproducible financial research, and comprehensive financial report. • `Python` • ★ 0 • 🍴 1
 - [**chrome-llm-automation**](https://github.com/NatBrian/chrome-llm-automation) — Chrome Extension for agentic browser automation. Runs entirely in the Side Panel using Set-of-Marks (SoM) grounding for reliable, high-precision observation and action. Powered by LLMs your choice. • `TypeScript` • ★ 0 • 🍴 0
@@ -160,6 +159,6 @@ _Click a year to expand/collapse. Showing description, language, stars, forks, a
 </details>
 
 
-_Last updated: 2026-05-07T02:01:53.121Z_
+_Last updated: 2026-05-08T02:08:32.218Z_
 
 <!-- REPO_LIST_END -->
