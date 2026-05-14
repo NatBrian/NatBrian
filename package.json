@@ -1,0 +1,12 @@
+{
+  "name": "natbrian-profile",
+  "private": true,
+  "description": "Auto-updating GitHub profile README. Daily cron regenerates archive.svg + repo list; render script regenerates static SVGs (terminal/stack).",
+  "scripts": {
+    "render": "tsx .github/scripts/render-static.ts",
+    "update-readme": "node .github/scripts/generate_readme.js"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0"
+  }
+}

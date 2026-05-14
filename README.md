@@ -1,14 +1,15 @@
-<a href="https://www.linkedin.com/in/nathanael-brian-b47a73165" target="_blank" rel="noreferrer"><img src="./assets/terminal.svg" alt="whoami — intro" width="100%"/></a>
-<img src="./assets/stack.svg" alt="stack — tools in active rotation" width="100%"/>
+<a href="https://www.linkedin.com/in/nathanael-brian-b47a73165/"><img src="./assets/terminal.svg" alt="whoami — intro · open to collaborations (linkedin)" width="100%"/></a>
+<a><img src="./assets/stack.svg" alt="stack — tools in active rotation" width="100%"/></a>
+<a href="https://github.com/NatBrian?tab=repositories"><img src="./assets/archive.svg" alt="repository archive — by year" width="100%"/></a>
+
+<details>
+<summary><strong>▮ TRANSMISSION ARCHIVE</strong> — every repo, by year (click for links + topics)</summary>
 
 <!-- REPO_LIST_START -->
 
-<a href="https://github.com/NatBrian?tab=repositories"><img src="assets/archive.svg" alt="repository archive — by year" width="100%"/></a>
-
-
 ## Repositories grouped by year
 
-_Click a year to expand/collapse. Showing description, language, stars, forks, and topics._
+_Click a year below to expand/collapse the full list with descriptions, languages, stars, forks, and topics._
 
 <details>
 <summary><strong>2026</strong> — 10 repos</summary>
@@ -103,6 +104,15 @@ _Click a year to expand/collapse. Showing description, language, stars, forks, a
 </details>
 
 
-_Last updated: 2026-05-14T02:15:17.307Z_
+_Last updated: 2026-05-14T18:21:49.125Z_
 
 <!-- REPO_LIST_END -->
+
+</details>
+
+&nbsp;
+
+<p align="right"><sub>
+  <a href="https://www.linkedin.com/in/nathanael-brian-b47a73165/">linkedin</a> · <a href="https://github.com/NatBrian">github</a>
+  &nbsp;·&nbsp; uplink 2026-05-09
+</sub></p>
