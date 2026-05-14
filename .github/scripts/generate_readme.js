@@ -131,7 +131,6 @@ function escapeInline(s) {
 
 function buildMarkdown(grouped) {
   let out = '\n';
-  out += '## Repositories grouped by year\n\n';
   out += '_Click a year below to expand/collapse the full list with descriptions, languages, stars, forks, and topics._\n\n';
 
   for (const g of grouped) {

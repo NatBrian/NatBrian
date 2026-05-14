@@ -1,13 +1,11 @@
 <a href="https://www.linkedin.com/in/nathanael-brian-b47a73165/"><img src="./assets/terminal.svg" alt="whoami — intro · open to collaborations (linkedin)" width="100%"/></a>
-<a><img src="./assets/stack.svg" alt="stack — tools in active rotation" width="100%"/></a>
+<a href="https://github.com/NatBrian?tab=repositories"><img src="./assets/stack.svg" alt="stack — tools in active rotation" width="100%"/></a>
 <a href="https://github.com/NatBrian?tab=repositories"><img src="./assets/archive.svg" alt="repository archive — by year" width="100%"/></a>
 
 <details>
-<summary><strong>▮ TRANSMISSION ARCHIVE</strong> — every repo, by year (click for links + topics)</summary>
+<summary><strong>▮ REPO ARCHIVE</strong> — every repo, by year (click for links + topics)</summary>
 
 <!-- REPO_LIST_START -->
-
-## Repositories grouped by year
 
 _Click a year below to expand/collapse the full list with descriptions, languages, stars, forks, and topics._
 

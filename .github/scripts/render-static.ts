@@ -415,22 +415,49 @@ function renderTerminal(p: Profile) {
   const padBottom = 56;
   const H = padTopContent + entries.length * lineH + padBottom;
 
-  const REVEAL_DUR = 0.4;
-  const STAGGER = 0.35;
-  const finalRevealTime = (entries.length - 1) * STAGGER + REVEAL_DUR;
+  // ----- BOOT SEQUENCE TIMING -----
+  // Each entry gets its own begin/dur. Command lines reveal at a per-character pace so they
+  // read as typing; output lines wipe in fast as if printed instantly. A short pause separates
+  // cmd→out; a longer pause out→cmd simulates the operator thinking before the next command.
+  const TYPING_CPS = 10;        // chars/sec for command lines (≈ deliberate, audible-feeling typing)
+  const OUT_REVEAL = 0.4;        // seconds for an output line to wipe in
+  const CMD_TO_OUT = 0.3;        // pause between a command and its output
+  const OUT_TO_CMD = 0.8;        // pause between an output and the next command
+  const READY_DELAY = 0.6;       // pause before the final "ready" line
+  const entryTimings: { begin: number; dur: number }[] = [];
+  {
+    let t = 0;
+    entries.forEach((e, i) => {
+      const dur = e.kind === 'cmd' ? Math.max(0.22, e.text.length / TYPING_CPS) : OUT_REVEAL;
+      entryTimings.push({ begin: t, dur });
+      t += dur;
+      if (i < entries.length - 1) {
+        const next = entries[i + 1].kind;
+        if (e.kind === 'cmd' && next === 'out') t += CMD_TO_OUT;
+        else if (e.kind === 'out' && next === 'cmd') t += OUT_TO_CMD;
+        else if (e.kind === 'out' && next === 'ready') t += READY_DELAY;
+        else t += 0.3;
+      }
+    });
+  }
+  const finalRevealTime = entryTimings[entries.length - 1].begin + entryTimings[entries.length - 1].dur;
 
-  // ----- DEFS: per-line typewriter clipPaths -----
+  // ----- DEFS: per-line typewriter clipPaths (timings come from entryTimings) -----
   const clipDefs = entries.map((e, i) => {
     const y = padTopContent + i * lineH;
     const wipeW = (e.text.length + 6) * charW + promptOffset;
+    const { begin, dur } = entryTimings[i];
     return `<clipPath id="tw-${i}">
       <rect x="${padX - 6}" y="${y - fontSize}" height="${fontSize * 1.5}" width="0">
-        <animate attributeName="width" from="0" to="${wipeW.toFixed(0)}" begin="${(i * STAGGER).toFixed(2)}s" dur="${REVEAL_DUR}s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="${wipeW.toFixed(0)}" begin="${begin.toFixed(2)}s" dur="${dur.toFixed(2)}s" fill="freeze"/>
       </rect>
     </clipPath>`;
   }).join('');
 
-  const defs = `${clipDefs}`;
+  // Pikachu's clip rect is the panel interior — content below the panel bottom border is clipped away,
+  // producing the "head poking up over the bottom edge" effect when the figure rises.
+  const pikaClipDef = `<clipPath id="pika-clip"><rect x="0" y="0" width="${W}" height="${H - 20}"/></clipPath>`;
+  const defs = `${clipDefs}${pikaClipDef}`;
 
   // ----- CHROME: window frame + mac dots + title + divider + corner brackets -----
   const chrome = `
@@ -506,7 +533,70 @@ function renderTerminal(p: Profile) {
       ▌
     </text>`;
 
-  return svgRoot(W, H, defs, `${chrome}${pulseLed}${stateBadge}${lines}${cursor}`);
+  // ----- PIKACHU: pops up at 5 fixed x positions along the panel bottom, one every 5s -----
+  // The 5 positions are shuffled at render time with Math.random() — each `npm run render`
+  // produces a different order, so the cycle never feels sequential. Within each slot the
+  // motion is purely vertical (rise → peak → fall at the SAME x); the position change to
+  // the next slot's x happens after the figure is fully back at home (offscreen), so the
+  // teleport is invisible. 26-keyframe values list encodes 5 slots × 5 events + final wrap.
+  const basePikaPositions = [150, 320, 460, 600, 770];
+  const pikaPositions = [...basePikaPositions];
+  for (let i = pikaPositions.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [pikaPositions[i], pikaPositions[j]] = [pikaPositions[j], pikaPositions[i]];
+  }
+  const pikaHome = H + 88;
+  const pikaPeak = 545;
+  const pikaSlot = 1 / pikaPositions.length;
+  const pikaKeyTimes: string[] = [];
+  const pikaValues: string[] = [];
+  pikaPositions.forEach((x, i) => {
+    const s = i * pikaSlot;
+    pikaKeyTimes.push(
+      s.toFixed(4),                  // slot start (at this x, home)
+      (s + 0.16).toFixed(4),          // end of hidden phase
+      (s + 0.168).toFixed(4),         // peak start (rise complete)
+      (s + 0.192).toFixed(4),         // peak end (start of fall)
+      (s + 0.198).toFixed(4),         // fall complete — back to home at SAME x
+    );
+    pikaValues.push(
+      `${x} ${pikaHome}`,
+      `${x} ${pikaHome}`,
+      `${x} ${pikaPeak}`,
+      `${x} ${pikaPeak}`,
+      `${x} ${pikaHome}`,             // straight-down fall: x unchanged, y back to home
+    );
+  });
+  pikaKeyTimes.push('1');
+  pikaValues.push(`${pikaPositions[pikaPositions.length - 1]} ${pikaHome}`);
+  const pikachu = `
+    <g clip-path="url(#pika-clip)">
+      <g transform="translate(${pikaPositions[0]} ${pikaHome})">
+        <animateTransform attributeName="transform" type="translate"
+          values="${pikaValues.join(';')}"
+          keyTimes="${pikaKeyTimes.join(';')}"
+          dur="25s" repeatCount="indefinite"/>
+        <path d="M-20,-16 L-13,-50 L-7,-22 Z" fill="${C.amber}"/>
+        <path d="M20,-16 L13,-50 L7,-22 Z" fill="${C.amber}"/>
+        <ellipse cx="0" cy="0" rx="24" ry="20" fill="${C.amber}"/>
+        <path d="M-17,-36 L-13,-50 L-9,-40 Z" fill="#1a1208"/>
+        <path d="M17,-36 L13,-50 L9,-40 Z" fill="#1a1208"/>
+        <circle cx="-8" cy="-3" r="3.5" fill="#0a0d18"/>
+        <circle cx="8" cy="-3" r="3.5" fill="#0a0d18"/>
+        <circle cx="-7" cy="-4.5" r="1.2" fill="#ffffff"/>
+        <circle cx="9" cy="-4.5" r="1.2" fill="#ffffff"/>
+        <circle cx="-15" cy="4" r="4.5" fill="${C.rose}">
+          <animate attributeName="opacity" values="1;0.45;1" dur="0.8s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="15" cy="4" r="4.5" fill="${C.rose}">
+          <animate attributeName="opacity" values="1;0.45;1" dur="0.8s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="0" cy="2" r="1" fill="#0a0d18"/>
+        <path d="M-3,7 Q0,10 3,7" stroke="#0a0d18" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+      </g>
+    </g>`;
+
+  return svgRoot(W, H, defs, `${chrome}${pulseLed}${stateBadge}${lines}${cursor}${pikachu}`);
 }
 
 

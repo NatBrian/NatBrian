@@ -21,41 +21,41 @@
     </pattern>
     <clipPath id="tw-0">
       <rect x="30" y="110" height="42" width="0">
-        <animate attributeName="width" from="0" to="238" begin="0.00s" dur="0.4s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="238" begin="0.00s" dur="0.60s" fill="freeze"/>
       </rect>
     </clipPath><clipPath id="tw-1">
       <rect x="30" y="152" height="42" width="0">
-        <animate attributeName="width" from="0" to="708" begin="0.35s" dur="0.4s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="708" begin="0.90s" dur="0.40s" fill="freeze"/>
       </rect>
     </clipPath><clipPath id="tw-2">
       <rect x="30" y="194" height="42" width="0">
-        <animate attributeName="width" from="0" to="221" begin="0.70s" dur="0.4s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="221" begin="2.10s" dur="0.50s" fill="freeze"/>
       </rect>
     </clipPath><clipPath id="tw-3">
       <rect x="30" y="236" height="42" width="0">
-        <animate attributeName="width" from="0" to="708" begin="1.05s" dur="0.4s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="708" begin="2.90s" dur="0.40s" fill="freeze"/>
       </rect>
     </clipPath><clipPath id="tw-4">
       <rect x="30" y="278" height="42" width="0">
-        <animate attributeName="width" from="0" to="355" begin="1.40s" dur="0.4s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="355" begin="4.10s" dur="1.30s" fill="freeze"/>
       </rect>
     </clipPath><clipPath id="tw-5">
       <rect x="30" y="320" height="42" width="0">
-        <animate attributeName="width" from="0" to="809" begin="1.75s" dur="0.4s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="809" begin="5.70s" dur="0.40s" fill="freeze"/>
       </rect>
     </clipPath><clipPath id="tw-6">
       <rect x="30" y="362" height="42" width="0">
-        <animate attributeName="width" from="0" to="221" begin="2.10s" dur="0.4s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="221" begin="6.90s" dur="0.50s" fill="freeze"/>
       </rect>
     </clipPath><clipPath id="tw-7">
       <rect x="30" y="404" height="42" width="0">
-        <animate attributeName="width" from="0" to="658" begin="2.45s" dur="0.4s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="658" begin="7.70s" dur="0.40s" fill="freeze"/>
       </rect>
     </clipPath><clipPath id="tw-8">
       <rect x="30" y="446" height="42" width="0">
-        <animate attributeName="width" from="0" to="826" begin="2.80s" dur="0.4s" fill="freeze"/>
+        <animate attributeName="width" from="0" to="826" begin="8.70s" dur="0.40s" fill="freeze"/>
       </rect>
-    </clipPath>
+    </clipPath><clipPath id="pika-clip"><rect x="0" y="0" width="920" height="552"/></clipPath>
   </defs>
   <rect width="920" height="572" rx="20" fill="#07090d"/>
   <rect width="920" height="572" rx="20" fill="url(#dots)" opacity="0.55"/>
@@ -112,13 +112,38 @@
         <text x="72" y="474" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="28" fill="#fbbf24" font-weight="500">open to collaborations · click to connect</text>
         <g transform="translate(777.6 474)">
           <text font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="28" fill="#fbbf24" font-weight="600">↗
-            <animateTransform attributeName="transform" type="translate" values="0 0;4 -4;0 0" dur="1.6s" begin="3.40s" repeatCount="indefinite"/>
+            <animateTransform attributeName="transform" type="translate" values="0 0;4 -4;0 0" dur="1.6s" begin="9.30s" repeatCount="indefinite"/>
           </text>
         </g>
       </g>
     <text x="811.2" y="474" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="28" fill="#5eead4" opacity="0">
-      <animate attributeName="opacity" from="0" to="1" begin="3.25s" dur="0.2s" fill="freeze"/>
-      <animate attributeName="opacity" values="1;0;1" dur="1.1s" begin="3.65s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" from="0" to="1" begin="9.15s" dur="0.2s" fill="freeze"/>
+      <animate attributeName="opacity" values="1;0;1" dur="1.1s" begin="9.55s" repeatCount="indefinite"/>
       ▌
     </text>
+    <g clip-path="url(#pika-clip)">
+      <g transform="translate(770 660)">
+        <animateTransform attributeName="transform" type="translate"
+          values="770 660;770 660;770 545;770 545;770 660;320 660;320 660;320 545;320 545;320 660;150 660;150 660;150 545;150 545;150 660;600 660;600 660;600 545;600 545;600 660;460 660;460 660;460 545;460 545;460 660;460 660"
+          keyTimes="0.0000;0.1600;0.1680;0.1920;0.1980;0.2000;0.3600;0.3680;0.3920;0.3980;0.4000;0.5600;0.5680;0.5920;0.5980;0.6000;0.7600;0.7680;0.7920;0.7980;0.8000;0.9600;0.9680;0.9920;0.9980;1"
+          dur="25s" repeatCount="indefinite"/>
+        <path d="M-20,-16 L-13,-50 L-7,-22 Z" fill="#fbbf24"/>
+        <path d="M20,-16 L13,-50 L7,-22 Z" fill="#fbbf24"/>
+        <ellipse cx="0" cy="0" rx="24" ry="20" fill="#fbbf24"/>
+        <path d="M-17,-36 L-13,-50 L-9,-40 Z" fill="#1a1208"/>
+        <path d="M17,-36 L13,-50 L9,-40 Z" fill="#1a1208"/>
+        <circle cx="-8" cy="-3" r="3.5" fill="#0a0d18"/>
+        <circle cx="8" cy="-3" r="3.5" fill="#0a0d18"/>
+        <circle cx="-7" cy="-4.5" r="1.2" fill="#ffffff"/>
+        <circle cx="9" cy="-4.5" r="1.2" fill="#ffffff"/>
+        <circle cx="-15" cy="4" r="4.5" fill="#fb7185">
+          <animate attributeName="opacity" values="1;0.45;1" dur="0.8s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="15" cy="4" r="4.5" fill="#fb7185">
+          <animate attributeName="opacity" values="1;0.45;1" dur="0.8s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="0" cy="2" r="1" fill="#0a0d18"/>
+        <path d="M-3,7 Q0,10 3,7" stroke="#0a0d18" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+      </g>
+    </g>
 </svg>
