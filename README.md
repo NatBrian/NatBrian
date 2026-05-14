@@ -7,8 +7,6 @@
 
 <!-- REPO_LIST_START -->
 
-_Click a year below to expand/collapse the full list with descriptions, languages, stars, forks, and topics._
-
 <details>
 <summary><strong>2026</strong> — 10 repos</summary>
 
