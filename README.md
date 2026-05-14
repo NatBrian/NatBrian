@@ -1,10 +1,10 @@
 <a href="https://www.linkedin.com/in/nathanael-brian-b47a73165" target="_blank" rel="noreferrer"><img src="./assets/terminal.svg" alt="whoami — intro" width="100%"/></a>
 <img src="./assets/stack.svg" alt="stack — tools in active rotation" width="100%"/>
 
-# My Projects & Repositories  
-_(Automatically updated daily by GitHub Actions.)_
-
 <!-- REPO_LIST_START -->
+
+<a href="https://github.com/NatBrian?tab=repositories"><img src="assets/archive.svg" alt="repository archive — by year" width="100%"/></a>
+
 
 ## Repositories grouped by year
 
