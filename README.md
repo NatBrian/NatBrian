@@ -29,6 +29,7 @@
 <details>
 <summary><strong>2025</strong> — 13 repos</summary>
 
+- [**wildlife-camera-trap-ai-system**](https://github.com/NatBrian/wildlife-camera-trap-ai-system) — AI-powered wildlife monitoring system powered by YOLOv8, with real-time detection and automatic video recording on the edge device. Metadata and thumbnails sync to a web dashboard for easy browsing and filtering. • `Jupyter Notebook` • ★ 1 • 🍴 0 • Topics: ai, animal, bird, camera, computer-vision, edge, onnx, wildlife, yolo
 - [**AeroFighters-SNES-reinforce-learning**](https://github.com/NatBrian/AeroFighters-SNES-reinforce-learning) — Reinforce Learning AeroFighter Snes game using Gym Retro • `Python` • ★ 0 • 🍴 0 • Topics: arcade, dqn, game, gym, ppo, reinforcement-learning, retro, snes
 - [**AgenticReqToDesign**](https://github.com/NatBrian/AgenticReqToDesign) — Agentic AI transforming Business Requirements into Technical Detailed Design • `HTML` • ★ 0 • 🍴 0 • Topics: agentic-ai, ai, artificial-intelligence, autogen, gemini
 - [**bullet-hell-100kbbh-rl**](https://github.com/NatBrian/bullet-hell-100kbbh-rl) — Gymnasium env + DQN/Double-DQN to dodge bullets in 100KBBH. Live preview, video recording, TensorBoard, CSV logs, and HTML reports. • `Python` • ★ 0 • 🍴 0 • Topics: bullet-hell, dqn, game, pytorch, reinfocement-learning
@@ -41,7 +42,6 @@
 - [**pong-ai**](https://github.com/NatBrian/pong-ai) — A modern arcade classic fused with generative AI. Battle a digital opponent as Google Gemini (via Genkit) dynamically mutates the game after every point you score. Experience unpredictable shifts in gravity, physics, and scale in real-time. Where retro gameplay meets alchemical AI transformation. • `TypeScript` • ★ 0 • 🍴 0 • Topics: arcade, gemini, generative-ai, llm, pong
 - [**T-ECD-Sequential-Recommender**](https://github.com/NatBrian/T-ECD-Sequential-Recommender) — Sequential Recommender (SASRec/GRU) benchmarking the T-ECD dataset (9.2M events). Features interactive testing dashboards, 2D/3D cross-domain embedding visualizations, and impact analysis. • `Jupyter Notebook` • ★ 0 • 🍴 0 • Topics: embeddings, gru, gru4rec, notebook, pytorch, recommendation-system, recommender-system, rnn, sasrec, transformer
 - [**web-image-gallery**](https://github.com/NatBrian/web-image-gallery) — A lightweight web application to extract all image URLs from a given website and display them in a dynamic, responsive gallery with infinite scrolling • `JavaScript` • ★ 0 • 🍴 0
-- [**wildlife-camera-trap-ai-system**](https://github.com/NatBrian/wildlife-camera-trap-ai-system) — AI-powered wildlife monitoring system powered by YOLOv8, with real-time detection and automatic video recording on the edge device. Metadata and thumbnails sync to a web dashboard for easy browsing and filtering. • `Jupyter Notebook` • ★ 0 • 🍴 0 • Topics: ai, animal, bird, camera, computer-vision, edge, onnx, wildlife, yolo
 
 </details>
 
@@ -103,7 +103,7 @@
 </details>
 
 
-_Last updated: 2026-06-26T02:31:19.306Z_
+_Last updated: 2026-06-27T02:24:59.295Z_
 
 <!-- REPO_LIST_END -->
 
