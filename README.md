@@ -8,7 +8,7 @@
 <!-- REPO_LIST_START -->
 
 <details>
-<summary><strong>2026</strong> — 14 repos</summary>
+<summary><strong>2026</strong> — 15 repos</summary>
 
 - [**LLMTradingAgents**](https://github.com/NatBrian/LLMTradingAgents) — LLMTradingAgents is an automated trading system that orchestrates competition between different Large Language Models (LLMs). It uses a 3-agent architecture to analyze market data, propose trades, and validate risk. • `Python` • ★ 1 • 🍴 0 • Topics: ai-agents, cryptocurrency, finance, langchain, llm, marketing-analytics, stock, trading, trading-algorithms, vite
 - [**nashville-traffic-stop-bias-analysis**](https://github.com/NatBrian/nashville-traffic-stop-bias-analysis) — End-to-end analysis of racial bias in Nashville Police Department traffic stops using interpretable machine learning, statistical tests, and fairness audits • `Jupyter Notebook` • ★ 1 • 🍴 0
@@ -20,6 +20,7 @@
 - [**Dyslexia-Web-Reader**](https://github.com/NatBrian/Dyslexia-Web-Reader) — Help dyslexia struggle via Chrome Extension (Manifest V3) that converts web articles into a distraction-free reader view with adjustable typography, guided reading, text-to-speech, and optional LLM-powered simplification. • `TypeScript` • ★ 0 • 🍴 1
 - [**HT-VideoGraph**](https://github.com/NatBrian/HT-VideoGraph) — HT-VideoGraph is the first Hierarchical Temporal Knowledge Graph (HTKG) for long video understanding. It addresses the fundamental limitations of current video RAG methods by modeling videos at multiple temporal granularities with multi-modal feature preservation. • `Python` • ★ 0 • 🍴 0
 - [**mochi-llm-pet**](https://github.com/NatBrian/mochi-llm-pet) — Mochi is a transparent AI desktop companion powered by multimodal LLMs. It understands your screen, windows, active apps, and cursor, then reacts in character walking, watching, sleeping, sulking, and building long-term memories that shape its evolving personality. • `Python` • ★ 0 • 🍴 0 • Topics: ai-pet, dekstop-ai, llm, pet, pet-project, virtual-pet, virtualpet
+- [**nbme-qlora-ensemble**](https://github.com/NatBrian/nbme-qlora-ensemble) — Generative SLM Ensemble for NBME Clinical Span Extraction (0.732 F1). Novel 3-phase pipeline: (1) RAG-guided Qwen3-8B pseudo-labeling, (2) Sequential QLoRA fine-tuning of 4 diverse SLMs, (3) FSM-constrained inference + char-level voting. Outperforms baselines by +0.222 F1. Includes adapters, vLLM optimization for 2xT4, and full ablation code. • `Jupyter Notebook` • ★ 0 • 🍴 0 • Topics: faiss, jupyter-notebook, kaggle, kaggle-competition, llm, lora, nbme, peft-fine-tuning-llm, rag
 - [**secure-enterprise-rag**](https://github.com/NatBrian/secure-enterprise-rag) — RAG over heterogeneous enterprise data (PDFs, CSV, JSON logs, reports) with role-based access control enforced inside retrieval, forbidden chunks never reach the ranker, reranker, prompt, or LLM. Hybrid BM25+dense+rerank, grounded citations, sanitised refusals, audit log. • `Python` • ★ 0 • 🍴 0
 - [**sudoku-llm-arena**](https://github.com/NatBrian/sudoku-llm-arena) • `Python` • ★ 0 • 🍴 0
 - [**tokengotchi**](https://github.com/NatBrian/tokengotchi) — Tamagotchi for your AI coding terminal: a context-aware virtual pet companion that feeds on LLM tokens and evolves. Tokengotchi watches Claude Code, Codex, Gemini CLI, Qwen, opencode, growing pixel-art creatures (terminal + statusline) that match what you're coding, moods & levels. • `Python` • ★ 0 • 🍴 0 • Topics: buddy, claude-code, code-companion, codex, companion, gemini, opencode, pet, qwen, tamagotchi, terminal, terminal-pet, virtual-pet
@@ -104,7 +105,7 @@
 </details>
 
 
-_Last updated: 2026-07-04T02:00:09.219Z_
+_Last updated: 2026-07-05T02:08:43.114Z_
 
 <!-- REPO_LIST_END -->
 
