@@ -19,7 +19,7 @@
 - [**dns-whitelist**](https://github.com/NatBrian/dns-whitelist) • `Unknown` • ★ 0 • 🍴 0
 - [**Dyslexia-Web-Reader**](https://github.com/NatBrian/Dyslexia-Web-Reader) — Help dyslexia struggle via Chrome Extension (Manifest V3) that converts web articles into a distraction-free reader view with adjustable typography, guided reading, text-to-speech, and optional LLM-powered simplification. • `TypeScript` • ★ 0 • 🍴 1
 - [**HT-VideoGraph**](https://github.com/NatBrian/HT-VideoGraph) — HT-VideoGraph is the first Hierarchical Temporal Knowledge Graph (HTKG) for long video understanding. It addresses the fundamental limitations of current video RAG methods by modeling videos at multiple temporal granularities with multi-modal feature preservation. • `Python` • ★ 0 • 🍴 0
-- [**llm-vs-house**](https://github.com/NatBrian/llm-vs-house) — Can an LLM gamble smarter than a human on pure luck game? A research harness that puts an LLM at unbeatable, negative-EV casino games (Sic Bo, slots, roulette, baccarat) to study its risk-taking. Deterministic engines, schema-validated bets, logging, replay, and a live compare dashboard. • `JavaScript` • ★ 0 • 🍴 0
+- [**llm-vs-house**](https://github.com/NatBrian/llm-vs-house) — Can LLMs beat pure luck? Benchmark AI against mathematically unwinnable casino games through real reproducible experiments. Evaluate reasoning under randomness with ROI analysis, bankroll dynamics, statistical significance testing, expected value, house edge, and long-run outcome distributions. • `JavaScript` • ★ 0 • 🍴 0 • Topics: baccarat, benchmark, casino, game, llm, random, roulette, roulette-game, sicbo, slot-machine, slots
 - [**mochi-llm-pet**](https://github.com/NatBrian/mochi-llm-pet) — Mochi is a transparent AI desktop companion powered by multimodal LLMs. It understands your screen, windows, active apps, and cursor, then reacts in character walking, watching, sleeping, sulking, and building long-term memories that shape its evolving personality. • `Python` • ★ 0 • 🍴 0 • Topics: ai-pet, dekstop-ai, llm, pet, pet-project, virtual-pet, virtualpet
 - [**nbme-qlora-ensemble**](https://github.com/NatBrian/nbme-qlora-ensemble) — Generative SLM Ensemble for NBME Clinical Span Extraction (0.732 F1). Novel 3-phase pipeline: (1) RAG-guided Qwen3-8B pseudo-labeling, (2) Sequential QLoRA fine-tuning of 4 diverse SLMs, (3) FSM-constrained inference + char-level voting. Outperforms baselines by +0.222 F1. Includes adapters, vLLM optimization for 2xT4, and full ablation code. • `Jupyter Notebook` • ★ 0 • 🍴 0 • Topics: faiss, jupyter-notebook, kaggle, kaggle-competition, llm, lora, nbme, peft-fine-tuning-llm, rag
 - [**secure-enterprise-rag**](https://github.com/NatBrian/secure-enterprise-rag) — RAG over heterogeneous enterprise data (PDFs, CSV, JSON logs, reports) with role-based access control enforced inside retrieval, forbidden chunks never reach the ranker, reranker, prompt, or LLM. Hybrid BM25+dense+rerank, grounded citations, sanitised refusals, audit log. • `Python` • ★ 0 • 🍴 0
@@ -106,7 +106,7 @@
 </details>
 
 
-_Last updated: 2026-07-06T02:13:33.282Z_
+_Last updated: 2026-07-07T02:09:11.980Z_
 
 <!-- REPO_LIST_END -->
 
