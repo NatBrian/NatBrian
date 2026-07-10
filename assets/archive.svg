@@ -70,7 +70,7 @@
             </rect>
             <text x="72" y="569" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">sudoku-llm-arena</text>
             <text x="330.8" y="569" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
-            <text x="72" y="605" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577"></text>
+            <text x="72" y="605" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Train &amp; Benchmarks LLM Sudoku solving on Sakana AI's Su…</text>
           </g>
         <text x="48" y="664" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#5eead4">Jun</text>
         <text x="110" y="664" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">2 repos</text>
