@@ -40,7 +40,7 @@
             </rect>
             <text x="72" y="254" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">image-token-compression</text>
             <text x="437.90000000000003" y="254" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
-            <text x="72" y="290" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">LLM token compression via images: a transparent OpenAI-…</text>
+            <text x="72" y="290" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">LLM token compression via images: a transparent Antrhop…</text>
           </g>
           <g>
             <rect x="48" y="319" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
