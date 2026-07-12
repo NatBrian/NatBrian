@@ -8,7 +8,7 @@
 <!-- REPO_LIST_START -->
 
 <details>
-<summary><strong>2026</strong> — 17 repos</summary>
+<summary><strong>2026</strong> — 18 repos</summary>
 
 - [**LLMTradingAgents**](https://github.com/NatBrian/LLMTradingAgents) — LLMTradingAgents is an automated trading system that orchestrates competition between different Large Language Models (LLMs). It uses a 3-agent architecture to analyze market data, propose trades, and validate risk. • `Python` • ★ 1 • 🍴 0 • Topics: ai-agents, cryptocurrency, finance, langchain, llm, marketing-analytics, stock, trading, trading-algorithms, vite
 - [**nashville-traffic-stop-bias-analysis**](https://github.com/NatBrian/nashville-traffic-stop-bias-analysis) — End-to-end analysis of racial bias in Nashville Police Department traffic stops using interpretable machine learning, statistical tests, and fairness audits • `Jupyter Notebook` • ★ 1 • 🍴 0
@@ -24,6 +24,7 @@
 - [**mochi-llm-pet**](https://github.com/NatBrian/mochi-llm-pet) — Mochi is a transparent AI desktop companion powered by multimodal LLMs. It understands your screen, windows, active apps, and cursor, then reacts in character walking, watching, sleeping, sulking, and building long-term memories that shape its evolving personality. • `Python` • ★ 0 • 🍴 0 • Topics: ai-pet, dekstop-ai, llm, pet, pet-project, virtual-pet, virtualpet
 - [**nbme-qlora-ensemble**](https://github.com/NatBrian/nbme-qlora-ensemble) — Generative SLM Ensemble for NBME Clinical Span Extraction (0.732 F1). Novel 3-phase pipeline: (1) RAG-guided Qwen3-8B pseudo-labeling, (2) Sequential QLoRA fine-tuning of 4 diverse SLMs, (3) FSM-constrained inference + char-level voting. Outperforms baselines by +0.222 F1. Includes adapters, vLLM optimization for 2xT4, and full ablation code. • `Jupyter Notebook` • ★ 0 • 🍴 0 • Topics: faiss, jupyter-notebook, kaggle, kaggle-competition, llm, lora, nbme, peft-fine-tuning-llm, rag
 - [**secure-enterprise-rag**](https://github.com/NatBrian/secure-enterprise-rag) — RAG over heterogeneous enterprise data (PDFs, CSV, JSON logs, reports) with role-based access control enforced inside retrieval, forbidden chunks never reach the ranker, reranker, prompt, or LLM. Hybrid BM25+dense+rerank, grounded citations, sanitised refusals, audit log. • `Python` • ★ 0 • 🍴 0
+- [**sic-bo-mbs**](https://github.com/NatBrian/sic-bo-mbs) — Faithful Sic Bo (MBS-style) web casino: pure-TypeScript engine for all 104 bets with exact payouts, seeded provably-fair 3D dice, 9 bots sharing one roll, live casino roads, and a Monte-Carlo learning sandbox. React + Vite + three.js, 188 tests, zero backend. • `TypeScript` • ★ 0 • 🍴 0 • Topics: casino-game, dice, game, monte-carlo, react, react-three-fiber, sic-bo, simulation, threejs, typescript, vite, vitest, web-game, zustand
 - [**sudoku-llm-arena**](https://github.com/NatBrian/sudoku-llm-arena) — Train & Benchmarks LLM Sudoku solving on Sakana AI's Sudoku-Bench with multi-step & single-shot evaluation, animated solve visualizations, model comparisons, reports, and LoRA/GRPO post-training experiments to measure how far small local models can close the gap to frontier models. • `Python` • ★ 0 • 🍴 0 • Topics: fine-tuning, finetuning, gpro, lora, small-llm, sudoku, sudoku-solver
 - [**tokengotchi**](https://github.com/NatBrian/tokengotchi) — Tamagotchi for your AI coding terminal: a context-aware virtual pet companion that feeds on LLM tokens and evolves. Tokengotchi watches Claude Code, Codex, Gemini CLI, Qwen, opencode, growing pixel-art creatures (terminal + statusline) that match what you're coding, moods & levels. • `Python` • ★ 0 • 🍴 0 • Topics: buddy, claude-code, code-companion, codex, companion, gemini, opencode, pet, qwen, tamagotchi, terminal, terminal-pet, virtual-pet
 - [**whatsapp-ai-recall**](https://github.com/NatBrian/whatsapp-ai-recall) — WAIR: A privacy-first, local-only AI assistant for WhatsApp. Indexes chat history into an encrypted SQLite database using hybrid RAG (vector + full-text) and local LLMs (Ollama). Zero data leaves your machine. • `TypeScript` • ★ 0 • 🍴 0
@@ -107,7 +108,7 @@
 </details>
 
 
-_Last updated: 2026-07-11T01:48:33.441Z_
+_Last updated: 2026-07-12T01:51:00.695Z_
 
 <!-- REPO_LIST_END -->
 
