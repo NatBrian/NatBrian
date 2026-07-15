@@ -8,13 +8,14 @@
 <!-- REPO_LIST_START -->
 
 <details>
-<summary><strong>2026</strong> — 18 repos</summary>
+<summary><strong>2026</strong> — 19 repos</summary>
 
 - [**LLMTradingAgents**](https://github.com/NatBrian/LLMTradingAgents) — LLMTradingAgents is an automated trading system that orchestrates competition between different Large Language Models (LLMs). It uses a 3-agent architecture to analyze market data, propose trades, and validate risk. • `Python` • ★ 1 • 🍴 0 • Topics: ai-agents, cryptocurrency, finance, langchain, llm, marketing-analytics, stock, trading, trading-algorithms, vite
 - [**nashville-traffic-stop-bias-analysis**](https://github.com/NatBrian/nashville-traffic-stop-bias-analysis) — End-to-end analysis of racial bias in Nashville Police Department traffic stops using interpretable machine learning, statistical tests, and fairness audits • `Jupyter Notebook` • ★ 1 • 🍴 0
 - [**artist-popularity-m3u8-playlist-generator**](https://github.com/NatBrian/artist-popularity-m3u8-playlist-generator) — Pipeline that builds two 1500-track M3U8 playlists (popularity-first + deep cuts) from an ordered artist taxonomy. Aggregates iTunes & Deezer data, ranks tracks, enforces zero-overlap, validates structure, and supports precise per-artist quota control via CSV with priority-based allocation logic • `Python` • ★ 0 • 🍴 0 • Topics: deezer, itunes, m3u8, m3u8-playlist, music, playlist, song, youtube, youtube-music, youtube-playlist
 - [**auto-research-finance**](https://github.com/NatBrian/auto-research-finance) — Autonomous, auditable quantitative finance agents orchestrated via Claude Code. Implements MCP-based tooling, multi-agent trading debates, arXiv-to-factor pipelines for reproducible financial research, and comprehensive financial report. • `Python` • ★ 0 • 🍴 1
 - [**chrome-llm-automation**](https://github.com/NatBrian/chrome-llm-automation) — Chrome Extension for agentic browser automation. Runs entirely in the Side Panel using Set-of-Marks (SoM) grounding for reliable, high-precision observation and action. Powered by LLMs your choice. • `TypeScript` • ★ 0 • 🍴 0
+- [**chronica**](https://github.com/NatBrian/chronica) — World sim that thinks: LLM-powered kings scheme, war, and write history across 500 years on a deterministic fantasy island. Click any chronicle paragraph to travel back and watch it unfold. Observer only, zero backend, in your browser as a static page. A single HTML file, deploy anywhere, no server. • `TypeScript` • ★ 0 • 🍴 0 • Topics: canvas2d, fantasy, game, llm, ollama, procedural-generation, simulation, typescript, vite, world-simulation
 - [**compiled-wiki-lifecycle**](https://github.com/NatBrian/compiled-wiki-lifecycle) — Paper + experiments: compiled-wiki lifecycle with 4 stages (compile, certify, maintain, retract) for LLM-compiled wikis, providing certified correctness guarantees over evolving corpora. Includes minimal llm-wiki implementation. • `Python` • ★ 0 • 🍴 0 • Topics: karpathy-llm-wiki, knowledge-base, knowledge-compilation, large-language-models, llm, llm-wiki, machine-unlearning, nlp, not-peer-reviewed, preprint, rag, reproducible-research, research-paper, retrieval-augmented-generation, statistical-certification, wiki
 - [**dns-whitelist**](https://github.com/NatBrian/dns-whitelist) • `Unknown` • ★ 0 • 🍴 0
 - [**Dyslexia-Web-Reader**](https://github.com/NatBrian/Dyslexia-Web-Reader) — Help dyslexia struggle via Chrome Extension (Manifest V3) that converts web articles into a distraction-free reader view with adjustable typography, guided reading, text-to-speech, and optional LLM-powered simplification. • `TypeScript` • ★ 0 • 🍴 1
@@ -60,12 +61,11 @@
 </details>
 
 <details>
-<summary><strong>2023</strong> — 7 repos</summary>
+<summary><strong>2023</strong> — 6 repos</summary>
 
 - [**NewsFront**](https://github.com/NatBrian/NewsFront) — Classic News WebApp • `JavaScript` • ★ 2 • 🍴 0 • Topics: news, newsapi, newsapp
 - [**NatBrian**](https://github.com/NatBrian/NatBrian) • `Unknown` • ★ 0 • 🍴 0
 - [**scrollscape**](https://github.com/NatBrian/scrollscape) — Endless Photos Scrolling • `JavaScript` • ★ 0 • 🍴 0
-- [**simple-digital-business-card**](https://github.com/NatBrian/simple-digital-business-card) — Deploy digital business card in Firebase • `CSS` • ★ 0 • 🍴 0
 - [**trading-simulation**](https://github.com/NatBrian/trading-simulation) — A high-throughput trading simulation for calculating OHLC summaries from large transaction volumes. Built with a Go app server, it leverages Kafka for asynchronous message queuing and Redis for fast data persistence. Features include Protobuf for data serialization, Dockerized infrastructure, and an API for bulk transaction. • `Go` • ★ 0 • 🍴 0
 - [**Ubuntu-Theme**](https://github.com/NatBrian/Ubuntu-Theme) • `JavaScript` • ★ 0 • 🍴 0
 - [**whatsapp-chatgpt**](https://github.com/NatBrian/whatsapp-chatgpt) • `Python` • ★ 0 • 🍴 0
@@ -108,7 +108,7 @@
 </details>
 
 
-_Last updated: 2026-07-14T01:40:30.085Z_
+_Last updated: 2026-07-15T01:26:37.712Z_
 
 <!-- REPO_LIST_END -->
 

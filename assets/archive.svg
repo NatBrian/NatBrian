@@ -25,22 +25,22 @@
         </circle>
       <circle cx="40" cy="134" r="10" fill="#5eead4" stroke="#0c1018" stroke-width="3"/>
       <text x="68" y="146" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="36" font-weight="600" fill="#e6ecf5">2026</text>
-      <text x="180" y="146" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">18 signals</text>
+      <text x="180" y="146" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">19 signals</text>
       <text x="290" y="146" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5eead4">● active</text>
       <line x1="30" y1="158" x2="890" y2="158" stroke="#1a2233" stroke-width="0.5"/>
       
         <text x="48" y="198" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#5eead4">Jul</text>
-        <text x="110" y="198" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">5 repos</text>
+        <text x="110" y="198" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">6 repos</text>
         <line x1="188" y1="188" x2="888" y2="188" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
           <g>
             <rect x="48" y="214" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
             <rect x="48" y="214" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="214" width="6" height="96" rx="3" fill="#3572A5">
+            <rect x="48" y="214" width="6" height="96" rx="3" fill="#3178c6">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-1.40s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="254" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">program-as-weights-github</text>
-            <text x="468.5" y="254" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
-            <text x="72" y="290" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Program-as-Weights, reimplemented: compile an English f…</text>
+            <text x="72" y="254" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">chronica</text>
+            <text x="208.4" y="254" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· TypeScript</text>
+            <text x="72" y="290" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">World sim that thinks: LLM-powered kings scheme, war, a…</text>
           </g>
           <g>
             <rect x="48" y="319" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
@@ -48,29 +48,29 @@
             <rect x="48" y="319" width="6" height="96" rx="3" fill="#3572A5">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-1.90s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="359" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">image-token-compression</text>
-            <text x="437.90000000000003" y="359" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
-            <text x="72" y="395" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">LLM token compression via images: a transparent Antrhop…</text>
+            <text x="72" y="359" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">program-as-weights-github</text>
+            <text x="468.5" y="359" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
+            <text x="72" y="395" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Program-as-Weights, reimplemented: compile an English f…</text>
           </g>
           <g>
             <rect x="48" y="424" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
             <rect x="48" y="424" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="424" width="6" height="96" rx="3" fill="#f1e05a">
+            <rect x="48" y="424" width="6" height="96" rx="3" fill="#3572A5">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-2.40s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="464" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">llm-vs-house</text>
-            <text x="269.6" y="464" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· JavaScript</text>
-            <text x="72" y="500" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Can LLMs beat pure luck? Benchmark AI against mathemati…</text>
+            <text x="72" y="464" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">image-token-compression</text>
+            <text x="437.90000000000003" y="464" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
+            <text x="72" y="500" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">LLM token compression via images: a transparent Antrhop…</text>
           </g>
           <g>
             <rect x="48" y="529" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
             <rect x="48" y="529" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="529" width="6" height="96" rx="3" fill="#3572A5">
+            <rect x="48" y="529" width="6" height="96" rx="3" fill="#f1e05a">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-2.90s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="569" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">compiled-wiki-lifecycle</text>
-            <text x="437.90000000000003" y="569" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
-            <text x="72" y="605" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Paper + experiments: compiled-wiki lifecycle with 4 sta…</text>
+            <text x="72" y="569" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">llm-vs-house</text>
+            <text x="269.6" y="569" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· JavaScript</text>
+            <text x="72" y="605" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Can LLMs beat pure luck? Benchmark AI against mathemati…</text>
           </g>
           <g>
             <rect x="48" y="634" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
@@ -78,68 +78,68 @@
             <rect x="48" y="634" width="6" height="96" rx="3" fill="#3572A5">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-3.40s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="674" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">sudoku-llm-arena</text>
-            <text x="330.8" y="674" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
-            <text x="72" y="710" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Train &amp; Benchmarks LLM Sudoku solving on Sakana AI's Su…</text>
+            <text x="72" y="674" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">compiled-wiki-lifecycle</text>
+            <text x="437.90000000000003" y="674" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
+            <text x="72" y="710" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Paper + experiments: compiled-wiki lifecycle with 4 sta…</text>
           </g>
-        <text x="48" y="769" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#5eead4">Jun</text>
-        <text x="110" y="769" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">2 repos</text>
-        <line x1="188" y1="759" x2="888" y2="759" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
           <g>
-            <rect x="48" y="785" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
-            <rect x="48" y="785" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="785" width="6" height="96" rx="3" fill="#3572A5">
-              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-3.50s" repeatCount="indefinite"/>
+            <rect x="48" y="739" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
+            <rect x="48" y="739" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
+            <rect x="48" y="739" width="6" height="96" rx="3" fill="#3572A5">
+              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-3.90s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="825" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">tokengotchi</text>
-            <text x="254.3" y="825" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
-            <text x="72" y="861" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Tamagotchi for your AI coding terminal: a context-aware…</text>
+            <text x="72" y="779" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">sudoku-llm-arena</text>
+            <text x="330.8" y="779" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
+            <text x="72" y="815" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Train &amp; Benchmarks LLM Sudoku solving on Sakana AI's Su…</text>
           </g>
+        <text x="48" y="874" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#5eead4">Jun</text>
+        <text x="110" y="874" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">2 repos</text>
+        <line x1="188" y1="864" x2="888" y2="864" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
           <g>
             <rect x="48" y="890" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
             <rect x="48" y="890" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
             <rect x="48" y="890" width="6" height="96" rx="3" fill="#3572A5">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-4.00s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="930" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">mochi-llm-pet</text>
-            <text x="284.9" y="930" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
-            <text x="72" y="966" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Mochi is a transparent AI desktop companion powered by …</text>
+            <text x="72" y="930" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">tokengotchi</text>
+            <text x="254.3" y="930" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
+            <text x="72" y="966" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Tamagotchi for your AI coding terminal: a context-aware…</text>
           </g>
-        <text x="48" y="1025" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#5eead4">May</text>
-        <text x="110" y="1025" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">1 repo</text>
-        <line x1="188" y1="1015" x2="888" y2="1015" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
           <g>
-            <rect x="48" y="1041" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
-            <rect x="48" y="1041" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="1041" width="6" height="96" rx="3" fill="#3572A5">
-              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-4.10s" repeatCount="indefinite"/>
+            <rect x="48" y="995" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
+            <rect x="48" y="995" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
+            <rect x="48" y="995" width="6" height="96" rx="3" fill="#3572A5">
+              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-4.50s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="1081" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">secure-enterprise-rag</text>
-            <text x="407.3" y="1081" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
-            <text x="72" y="1117" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">RAG over heterogeneous enterprise data (PDFs, CSV, JSON…</text>
+            <text x="72" y="1035" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">mochi-llm-pet</text>
+            <text x="284.9" y="1035" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
+            <text x="72" y="1071" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Mochi is a transparent AI desktop companion powered by …</text>
           </g>
-        <text x="48" y="1176" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#5eead4">Apr</text>
-        <text x="110" y="1176" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">3 repos</text>
-        <line x1="188" y1="1166" x2="888" y2="1166" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
+        <text x="48" y="1130" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#5eead4">May</text>
+        <text x="110" y="1130" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">1 repo</text>
+        <line x1="188" y1="1120" x2="888" y2="1120" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
           <g>
-            <rect x="48" y="1192" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
-            <rect x="48" y="1192" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="1192" width="6" height="96" rx="3" fill="#DA5B0B">
-              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-4.20s" repeatCount="indefinite"/>
+            <rect x="48" y="1146" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
+            <rect x="48" y="1146" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
+            <rect x="48" y="1146" width="6" height="96" rx="3" fill="#3572A5">
+              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-4.60s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="1232" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">nbme-qlora-ensemble</text>
-            <text x="376.7" y="1232" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Jupyter Notebook</text>
-            <text x="72" y="1268" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Generative SLM Ensemble for NBME Clinical Span Extracti…</text>
+            <text x="72" y="1186" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">secure-enterprise-rag</text>
+            <text x="407.3" y="1186" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
+            <text x="72" y="1222" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">RAG over heterogeneous enterprise data (PDFs, CSV, JSON…</text>
           </g>
+        <text x="48" y="1281" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#5eead4">Apr</text>
+        <text x="110" y="1281" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">3 repos</text>
+        <line x1="188" y1="1271" x2="888" y2="1271" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
           <g>
             <rect x="48" y="1297" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
             <rect x="48" y="1297" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="1297" width="6" height="96" rx="3" fill="#3572A5">
+            <rect x="48" y="1297" width="6" height="96" rx="3" fill="#DA5B0B">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-4.70s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="1337" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">auto-research-finance</text>
-            <text x="407.3" y="1337" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
-            <text x="72" y="1373" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Autonomous, auditable quantitative finance agents orche…</text>
+            <text x="72" y="1337" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">nbme-qlora-ensemble</text>
+            <text x="376.7" y="1337" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Jupyter Notebook</text>
+            <text x="72" y="1373" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Generative SLM Ensemble for NBME Clinical Span Extracti…</text>
           </g>
           <g>
             <rect x="48" y="1402" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
@@ -147,153 +147,153 @@
             <rect x="48" y="1402" width="6" height="96" rx="3" fill="#3572A5">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-0.20s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="1442" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">HT-VideoGraph</text>
-            <text x="284.9" y="1442" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
-            <text x="72" y="1478" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">HT-VideoGraph is the first Hierarchical Temporal Knowle…</text>
+            <text x="72" y="1442" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">auto-research-finance</text>
+            <text x="407.3" y="1442" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
+            <text x="72" y="1478" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Autonomous, auditable quantitative finance agents orche…</text>
           </g>
-        <text x="48" y="1537" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#5eead4">Mar</text>
-        <text x="110" y="1537" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">2 repos</text>
-        <line x1="188" y1="1527" x2="888" y2="1527" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
           <g>
-            <rect x="48" y="1553" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
-            <rect x="48" y="1553" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="1553" width="6" height="96" rx="3" fill="#5b6577">
-              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-0.30s" repeatCount="indefinite"/>
+            <rect x="48" y="1507" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
+            <rect x="48" y="1507" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
+            <rect x="48" y="1507" width="6" height="96" rx="3" fill="#3572A5">
+              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-0.70s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="1593" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">dns-whitelist</text>
-            
-            <text x="72" y="1629" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577"></text>
+            <text x="72" y="1547" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">HT-VideoGraph</text>
+            <text x="284.9" y="1547" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
+            <text x="72" y="1583" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">HT-VideoGraph is the first Hierarchical Temporal Knowle…</text>
           </g>
+        <text x="48" y="1642" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#5eead4">Mar</text>
+        <text x="110" y="1642" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">2 repos</text>
+        <line x1="188" y1="1632" x2="888" y2="1632" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
           <g>
             <rect x="48" y="1658" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
             <rect x="48" y="1658" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="1658" width="6" height="96" rx="3" fill="#3178c6">
+            <rect x="48" y="1658" width="6" height="96" rx="3" fill="#5b6577">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-0.80s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="1698" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">whatsapp-ai-recall</text>
-            <text x="361.40000000000003" y="1698" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· TypeScript</text>
-            <text x="72" y="1734" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">WAIR: A privacy-first, local-only AI assistant for What…</text>
+            <text x="72" y="1698" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">dns-whitelist</text>
+            
+            <text x="72" y="1734" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577"></text>
           </g>
-        <text x="48" y="1793" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#5eead4">Feb</text>
-        <text x="110" y="1793" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">2 repos</text>
-        <line x1="188" y1="1783" x2="888" y2="1783" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
           <g>
-            <rect x="48" y="1809" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
-            <rect x="48" y="1809" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="1809" width="6" height="96" rx="3" fill="#3572A5">
-              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-0.90s" repeatCount="indefinite"/>
+            <rect x="48" y="1763" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
+            <rect x="48" y="1763" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
+            <rect x="48" y="1763" width="6" height="96" rx="3" fill="#3178c6">
+              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-1.30s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="1849" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">artist-popularity-m3u8-playlist-generator</text>
-            <text x="713.3000000000001" y="1849" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
-            <text x="72" y="1885" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Pipeline that builds two 1500-track M3U8 playlists (pop…</text>
+            <text x="72" y="1803" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">whatsapp-ai-recall</text>
+            <text x="361.40000000000003" y="1803" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· TypeScript</text>
+            <text x="72" y="1839" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">WAIR: A privacy-first, local-only AI assistant for What…</text>
           </g>
+        <text x="48" y="1898" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#5eead4">Feb</text>
+        <text x="110" y="1898" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">2 repos</text>
+        <line x1="188" y1="1888" x2="888" y2="1888" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
           <g>
             <rect x="48" y="1914" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
             <rect x="48" y="1914" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="1914" width="6" height="96" rx="3" fill="#3178c6">
+            <rect x="48" y="1914" width="6" height="96" rx="3" fill="#3572A5">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-1.40s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="1954" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">Dyslexia-Web-Reader</text>
-            <text x="376.7" y="1954" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· TypeScript</text>
-            <text x="72" y="1990" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Help dyslexia struggle via Chrome Extension (Manifest V…</text>
+            <text x="72" y="1954" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">artist-popularity-m3u8-playlist-generator</text>
+            <text x="713.3000000000001" y="1954" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
+            <text x="72" y="1990" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Pipeline that builds two 1500-track M3U8 playlists (pop…</text>
           </g>
-        <text x="48" y="2049" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#5eead4">Jan</text>
-        <text x="110" y="2049" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">3 repos</text>
-        <line x1="188" y1="2039" x2="888" y2="2039" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
           <g>
-            <rect x="48" y="2065" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
-            <rect x="48" y="2065" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="2065" width="6" height="96" rx="3" fill="#3178c6">
-              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-1.50s" repeatCount="indefinite"/>
+            <rect x="48" y="2019" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
+            <rect x="48" y="2019" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
+            <rect x="48" y="2019" width="6" height="96" rx="3" fill="#3178c6">
+              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-1.90s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="2105" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">chrome-llm-automation</text>
-            <text x="407.3" y="2105" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· TypeScript</text>
-            <text x="72" y="2141" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Chrome Extension for agentic browser automation. Runs e…</text>
+            <text x="72" y="2059" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">Dyslexia-Web-Reader</text>
+            <text x="376.7" y="2059" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· TypeScript</text>
+            <text x="72" y="2095" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Help dyslexia struggle via Chrome Extension (Manifest V…</text>
           </g>
+        <text x="48" y="2154" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#5eead4">Jan</text>
+        <text x="110" y="2154" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">3 repos</text>
+        <line x1="188" y1="2144" x2="888" y2="2144" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
           <g>
             <rect x="48" y="2170" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
             <rect x="48" y="2170" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="2170" width="6" height="96" rx="3" fill="#DA5B0B">
+            <rect x="48" y="2170" width="6" height="96" rx="3" fill="#3178c6">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-2.00s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="2210" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">nashville-traffic-stop-bias-analysis</text>
-            <text x="636.8000000000001" y="2210" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Jupyter Notebook</text>
-            <text x="72" y="2246" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">End-to-end analysis of racial bias in Nashville Police …</text>
+            <text x="72" y="2210" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">chrome-llm-automation</text>
+            <text x="407.3" y="2210" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· TypeScript</text>
+            <text x="72" y="2246" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Chrome Extension for agentic browser automation. Runs e…</text>
           </g>
           <g>
             <rect x="48" y="2275" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
             <rect x="48" y="2275" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="2275" width="6" height="96" rx="3" fill="#3572A5">
+            <rect x="48" y="2275" width="6" height="96" rx="3" fill="#DA5B0B">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-2.50s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="2315" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">LLMTradingAgents</text>
-            <text x="330.8" y="2315" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
-            <text x="72" y="2351" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">LLMTradingAgents is an automated trading system that or…</text>
+            <text x="72" y="2315" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">nashville-traffic-stop-bias-analysis</text>
+            <text x="636.8000000000001" y="2315" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Jupyter Notebook</text>
+            <text x="72" y="2351" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">End-to-end analysis of racial bias in Nashville Police …</text>
+          </g>
+          <g>
+            <rect x="48" y="2380" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
+            <rect x="48" y="2380" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
+            <rect x="48" y="2380" width="6" height="96" rx="3" fill="#3572A5">
+              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-3.00s" repeatCount="indefinite"/>
+            </rect>
+            <text x="72" y="2420" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">LLMTradingAgents</text>
+            <text x="330.8" y="2420" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
+            <text x="72" y="2456" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">LLMTradingAgents is an automated trading system that or…</text>
           </g>
     </g><g opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="0.22s" dur="0.32s" fill="freeze"/>
       
-      <circle cx="40" cy="2438" r="10" fill="#a78bfa" stroke="#0c1018" stroke-width="3"/>
-      <text x="68" y="2450" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="36" font-weight="600" fill="#e6ecf5">2025</text>
-      <text x="180" y="2450" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">13 signals</text>
+      <circle cx="40" cy="2543" r="10" fill="#a78bfa" stroke="#0c1018" stroke-width="3"/>
+      <text x="68" y="2555" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="36" font-weight="600" fill="#e6ecf5">2025</text>
+      <text x="180" y="2555" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">13 signals</text>
       
-      <line x1="30" y1="2462" x2="890" y2="2462" stroke="#1a2233" stroke-width="0.5"/>
+      <line x1="30" y1="2567" x2="890" y2="2567" stroke="#1a2233" stroke-width="0.5"/>
       
-        <text x="48" y="2502" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#a78bfa">Dec</text>
-        <text x="110" y="2502" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">2 repos</text>
-        <line x1="188" y1="2492" x2="888" y2="2492" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
-          <g>
-            <rect x="48" y="2518" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
-            <rect x="48" y="2518" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="2518" width="6" height="96" rx="3" fill="#DA5B0B">
-              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-1.80s" repeatCount="indefinite"/>
-            </rect>
-            <text x="72" y="2558" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">T-ECD-Sequential-Recommender</text>
-            <text x="514.4000000000001" y="2558" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Jupyter Notebook</text>
-            <text x="72" y="2594" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Sequential Recommender (SASRec/GRU) benchmarking the T-…</text>
-          </g>
+        <text x="48" y="2607" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#a78bfa">Dec</text>
+        <text x="110" y="2607" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">2 repos</text>
+        <line x1="188" y1="2597" x2="888" y2="2597" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
           <g>
             <rect x="48" y="2623" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
             <rect x="48" y="2623" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
             <rect x="48" y="2623" width="6" height="96" rx="3" fill="#DA5B0B">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-2.30s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="2663" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">chatgpt-from-scratch</text>
-            <text x="392" y="2663" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Jupyter Notebook</text>
-            <text x="72" y="2699" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">A comprehensive, zero-dependency notebook to build a mo…</text>
+            <text x="72" y="2663" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">T-ECD-Sequential-Recommender</text>
+            <text x="514.4000000000001" y="2663" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Jupyter Notebook</text>
+            <text x="72" y="2699" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Sequential Recommender (SASRec/GRU) benchmarking the T-…</text>
           </g>
-        <text x="48" y="2758" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#a78bfa">Nov</text>
-        <text x="110" y="2758" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">6 repos</text>
-        <line x1="188" y1="2748" x2="888" y2="2748" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
           <g>
-            <rect x="48" y="2774" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
-            <rect x="48" y="2774" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="2774" width="6" height="96" rx="3" fill="#f1e05a">
-              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-2.40s" repeatCount="indefinite"/>
+            <rect x="48" y="2728" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
+            <rect x="48" y="2728" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
+            <rect x="48" y="2728" width="6" height="96" rx="3" fill="#DA5B0B">
+              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-2.80s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="2814" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">interactive-mcq-trainer</text>
-            <text x="437.90000000000003" y="2814" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· JavaScript</text>
-            <text x="72" y="2850" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">A simple, elegant MCQ practice UI built with pure HTML,…</text>
+            <text x="72" y="2768" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">chatgpt-from-scratch</text>
+            <text x="392" y="2768" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Jupyter Notebook</text>
+            <text x="72" y="2804" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">A comprehensive, zero-dependency notebook to build a mo…</text>
           </g>
+        <text x="48" y="2863" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#a78bfa">Nov</text>
+        <text x="110" y="2863" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">6 repos</text>
+        <line x1="188" y1="2853" x2="888" y2="2853" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
           <g>
             <rect x="48" y="2879" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
             <rect x="48" y="2879" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="2879" width="6" height="96" rx="3" fill="#DA5B0B">
+            <rect x="48" y="2879" width="6" height="96" rx="3" fill="#f1e05a">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-2.90s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="2919" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">wildlife-camera-trap-ai-system</text>
-            <text x="545" y="2919" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Jupyter Notebook</text>
-            <text x="72" y="2955" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">AI-powered wildlife monitoring system powered by YOLOv8…</text>
+            <text x="72" y="2919" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">interactive-mcq-trainer</text>
+            <text x="437.90000000000003" y="2919" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· JavaScript</text>
+            <text x="72" y="2955" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">A simple, elegant MCQ practice UI built with pure HTML,…</text>
           </g>
           <g>
             <rect x="48" y="2984" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
             <rect x="48" y="2984" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="2984" width="6" height="96" rx="3" fill="#3572A5">
+            <rect x="48" y="2984" width="6" height="96" rx="3" fill="#DA5B0B">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-3.40s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="3024" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">bullet-hell-100kbbh-rl</text>
-            <text x="422.6" y="3024" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
-            <text x="72" y="3060" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Gymnasium env + DQN/Double-DQN to dodge bullets in 100K…</text>
+            <text x="72" y="3024" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">wildlife-camera-trap-ai-system</text>
+            <text x="545" y="3024" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Jupyter Notebook</text>
+            <text x="72" y="3060" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">AI-powered wildlife monitoring system powered by YOLOv8…</text>
           </g>
           <g>
             <rect x="48" y="3089" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
@@ -301,9 +301,9 @@
             <rect x="48" y="3089" width="6" height="96" rx="3" fill="#3572A5">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-3.90s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="3129" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">mini-rl-zoo</text>
-            <text x="254.3" y="3129" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
-            <text x="72" y="3165" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Educational RL framework with Q-learning, SARSA, DQN, A…</text>
+            <text x="72" y="3129" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">bullet-hell-100kbbh-rl</text>
+            <text x="422.6" y="3129" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
+            <text x="72" y="3165" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Gymnasium env + DQN/Double-DQN to dodge bullets in 100K…</text>
           </g>
           <g>
             <rect x="48" y="3194" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
@@ -311,65 +311,65 @@
             <rect x="48" y="3194" width="6" height="96" rx="3" fill="#3572A5">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-4.40s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="3234" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">AeroFighters-SNES-reinforce-learning</text>
-            <text x="636.8000000000001" y="3234" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
-            <text x="72" y="3270" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Reinforce Learning AeroFighter Snes game using Gym Retro</text>
+            <text x="72" y="3234" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">mini-rl-zoo</text>
+            <text x="254.3" y="3234" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
+            <text x="72" y="3270" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Educational RL framework with Q-learning, SARSA, DQN, A…</text>
           </g>
           <g>
             <rect x="48" y="3299" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
             <rect x="48" y="3299" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="3299" width="6" height="96" rx="3" fill="#DA5B0B">
+            <rect x="48" y="3299" width="6" height="96" rx="3" fill="#3572A5">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-4.90s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="3339" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">mediapipe-hand-recognition</text>
-            <text x="483.8" y="3339" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Jupyter Notebook</text>
-            <text x="72" y="3375" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Hand recognition system using MediaPipe for real-time h…</text>
+            <text x="72" y="3339" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">AeroFighters-SNES-reinforce-learning</text>
+            <text x="636.8000000000001" y="3339" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
+            <text x="72" y="3375" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Reinforce Learning AeroFighter Snes game using Gym Retro</text>
           </g>
-        <text x="48" y="3434" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#a78bfa">Oct</text>
-        <text x="110" y="3434" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">2 repos</text>
-        <line x1="188" y1="3424" x2="888" y2="3424" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
           <g>
-            <rect x="48" y="3450" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
-            <rect x="48" y="3450" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="3450" width="6" height="96" rx="3" fill="#f1e05a">
-              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-0.00s" repeatCount="indefinite"/>
+            <rect x="48" y="3404" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
+            <rect x="48" y="3404" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
+            <rect x="48" y="3404" width="6" height="96" rx="3" fill="#DA5B0B">
+              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-0.40s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="3490" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">web-image-gallery</text>
-            <text x="346.1" y="3490" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· JavaScript</text>
-            <text x="72" y="3526" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">A lightweight web application to extract all image URLs…</text>
+            <text x="72" y="3444" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">mediapipe-hand-recognition</text>
+            <text x="483.8" y="3444" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Jupyter Notebook</text>
+            <text x="72" y="3480" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Hand recognition system using MediaPipe for real-time h…</text>
           </g>
+        <text x="48" y="3539" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#a78bfa">Oct</text>
+        <text x="110" y="3539" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">2 repos</text>
+        <line x1="188" y1="3529" x2="888" y2="3529" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
           <g>
             <rect x="48" y="3555" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
             <rect x="48" y="3555" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="3555" width="6" height="96" rx="3" fill="#e34c26">
+            <rect x="48" y="3555" width="6" height="96" rx="3" fill="#f1e05a">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-0.50s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="3595" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">AgenticReqToDesign</text>
-            <text x="361.40000000000003" y="3595" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· HTML</text>
-            <text x="72" y="3631" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Agentic AI transforming Business Requirements into Tech…</text>
+            <text x="72" y="3595" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">web-image-gallery</text>
+            <text x="346.1" y="3595" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· JavaScript</text>
+            <text x="72" y="3631" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">A lightweight web application to extract all image URLs…</text>
           </g>
-        <text x="48" y="3690" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#a78bfa">Jul</text>
-        <text x="110" y="3690" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">3 repos</text>
-        <line x1="188" y1="3680" x2="888" y2="3680" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
           <g>
-            <rect x="48" y="3706" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
-            <rect x="48" y="3706" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="3706" width="6" height="96" rx="3" fill="#3178c6">
-              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-0.60s" repeatCount="indefinite"/>
+            <rect x="48" y="3660" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
+            <rect x="48" y="3660" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
+            <rect x="48" y="3660" width="6" height="96" rx="3" fill="#e34c26">
+              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-1.00s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="3746" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">gemini-chess</text>
-            <text x="269.6" y="3746" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· TypeScript</text>
-            <text x="72" y="3782" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">A minimalist chess simulator powered by Google Gemini. …</text>
+            <text x="72" y="3700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">AgenticReqToDesign</text>
+            <text x="361.40000000000003" y="3700" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· HTML</text>
+            <text x="72" y="3736" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Agentic AI transforming Business Requirements into Tech…</text>
           </g>
+        <text x="48" y="3795" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#a78bfa">Jul</text>
+        <text x="110" y="3795" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">3 repos</text>
+        <line x1="188" y1="3785" x2="888" y2="3785" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
           <g>
             <rect x="48" y="3811" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
             <rect x="48" y="3811" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
             <rect x="48" y="3811" width="6" height="96" rx="3" fill="#3178c6">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-1.10s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="3851" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">pong-ai</text>
-            <text x="193.10000000000002" y="3851" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· TypeScript</text>
-            <text x="72" y="3887" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">A modern arcade classic fused with generative AI. Battl…</text>
+            <text x="72" y="3851" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">gemini-chess</text>
+            <text x="269.6" y="3851" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· TypeScript</text>
+            <text x="72" y="3887" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">A minimalist chess simulator powered by Google Gemini. …</text>
           </g>
           <g>
             <rect x="48" y="3916" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
@@ -377,41 +377,41 @@
             <rect x="48" y="3916" width="6" height="96" rx="3" fill="#3178c6">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-1.60s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="3956" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">CanvasAI</text>
-            <text x="208.4" y="3956" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· TypeScript</text>
-            <text x="72" y="3992" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Interactive 2D game development sandbox that allows you…</text>
+            <text x="72" y="3956" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">pong-ai</text>
+            <text x="193.10000000000002" y="3956" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· TypeScript</text>
+            <text x="72" y="3992" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">A modern arcade classic fused with generative AI. Battl…</text>
+          </g>
+          <g>
+            <rect x="48" y="4021" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
+            <rect x="48" y="4021" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
+            <rect x="48" y="4021" width="6" height="96" rx="3" fill="#3178c6">
+              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-2.10s" repeatCount="indefinite"/>
+            </rect>
+            <text x="72" y="4061" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">CanvasAI</text>
+            <text x="208.4" y="4061" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· TypeScript</text>
+            <text x="72" y="4097" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Interactive 2D game development sandbox that allows you…</text>
           </g>
     </g><g opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="0.44s" dur="0.32s" fill="freeze"/>
       
-      <circle cx="40" cy="4079" r="10" fill="#a78bfa" stroke="#0c1018" stroke-width="3"/>
-      <text x="68" y="4091" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="36" font-weight="600" fill="#e6ecf5">2024</text>
-      <text x="180" y="4091" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">3 signals</text>
+      <circle cx="40" cy="4184" r="10" fill="#a78bfa" stroke="#0c1018" stroke-width="3"/>
+      <text x="68" y="4196" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="36" font-weight="600" fill="#e6ecf5">2024</text>
+      <text x="180" y="4196" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">3 signals</text>
       
-      <line x1="30" y1="4103" x2="890" y2="4103" stroke="#1a2233" stroke-width="0.5"/>
+      <line x1="30" y1="4208" x2="890" y2="4208" stroke="#1a2233" stroke-width="0.5"/>
       
-        <text x="48" y="4143" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#a78bfa">Jan</text>
-        <text x="110" y="4143" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">3 repos</text>
-        <line x1="188" y1="4133" x2="888" y2="4133" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
-          <g>
-            <rect x="48" y="4159" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
-            <rect x="48" y="4159" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="4159" width="6" height="96" rx="3" fill="#3572A5">
-              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-0.90s" repeatCount="indefinite"/>
-            </rect>
-            <text x="72" y="4199" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">GeminiChatFile</text>
-            <text x="300.20000000000005" y="4199" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
-            <text x="72" y="4235" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Chat File with Gemini</text>
-          </g>
+        <text x="48" y="4248" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#a78bfa">Jan</text>
+        <text x="110" y="4248" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">3 repos</text>
+        <line x1="188" y1="4238" x2="888" y2="4238" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
           <g>
             <rect x="48" y="4264" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
             <rect x="48" y="4264" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="4264" width="6" height="96" rx="3" fill="#5b6577">
+            <rect x="48" y="4264" width="6" height="96" rx="3" fill="#3572A5">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-1.40s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="4304" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">PollinationAI</text>
-            
-            <text x="72" y="4340" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">AI Image Generation https://pollinationsai.netlify.app/</text>
+            <text x="72" y="4304" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">GeminiChatFile</text>
+            <text x="300.20000000000005" y="4304" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
+            <text x="72" y="4340" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Chat File with Gemini</text>
           </g>
           <g>
             <rect x="48" y="4369" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
@@ -419,54 +419,54 @@
             <rect x="48" y="4369" width="6" height="96" rx="3" fill="#5b6577">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-1.90s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="4409" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">ChatGPT-custom-instruction</text>
+            <text x="72" y="4409" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">PollinationAI</text>
             
-            <text x="72" y="4445" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">personal experiments on ChatGPT custom instruction </text>
+            <text x="72" y="4445" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">AI Image Generation https://pollinationsai.netlify.app/</text>
+          </g>
+          <g>
+            <rect x="48" y="4474" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
+            <rect x="48" y="4474" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
+            <rect x="48" y="4474" width="6" height="96" rx="3" fill="#5b6577">
+              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-2.40s" repeatCount="indefinite"/>
+            </rect>
+            <text x="72" y="4514" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">ChatGPT-custom-instruction</text>
+            
+            <text x="72" y="4550" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">personal experiments on ChatGPT custom instruction </text>
           </g>
     </g><g opacity="0">
       <animate attributeName="opacity" from="0" to="1" begin="0.66s" dur="0.32s" fill="freeze"/>
       
-      <circle cx="40" cy="4532" r="10" fill="#a78bfa" stroke="#0c1018" stroke-width="3"/>
-      <text x="68" y="4544" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="36" font-weight="600" fill="#e6ecf5">2023</text>
-      <text x="180" y="4544" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">7 signals</text>
+      <circle cx="40" cy="4637" r="10" fill="#a78bfa" stroke="#0c1018" stroke-width="3"/>
+      <text x="68" y="4649" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="36" font-weight="600" fill="#e6ecf5">2023</text>
+      <text x="180" y="4649" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">6 signals</text>
       
-      <line x1="30" y1="4556" x2="890" y2="4556" stroke="#1a2233" stroke-width="0.5"/>
+      <line x1="30" y1="4661" x2="890" y2="4661" stroke="#1a2233" stroke-width="0.5"/>
       
-        <text x="48" y="4596" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#a78bfa">Mar</text>
-        <text x="110" y="4596" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">1 repo</text>
-        <line x1="188" y1="4586" x2="888" y2="4586" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
+        <text x="48" y="4701" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#a78bfa">Mar</text>
+        <text x="110" y="4701" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">1 repo</text>
+        <line x1="188" y1="4691" x2="888" y2="4691" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
           <g>
-            <rect x="48" y="4612" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
-            <rect x="48" y="4612" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="4612" width="6" height="96" rx="3" fill="#3572A5">
-              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-1.20s" repeatCount="indefinite"/>
+            <rect x="48" y="4717" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
+            <rect x="48" y="4717" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
+            <rect x="48" y="4717" width="6" height="96" rx="3" fill="#3572A5">
+              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-1.70s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="4652" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">whatsapp-chatgpt</text>
-            <text x="330.8" y="4652" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
-            <text x="72" y="4688" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577"></text>
+            <text x="72" y="4757" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">whatsapp-chatgpt</text>
+            <text x="330.8" y="4757" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· Python</text>
+            <text x="72" y="4793" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577"></text>
           </g>
-        <text x="48" y="4747" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#a78bfa">Feb</text>
-        <text x="110" y="4747" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">3 repos</text>
-        <line x1="188" y1="4737" x2="888" y2="4737" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
-          <g>
-            <rect x="48" y="4763" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
-            <rect x="48" y="4763" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="4763" width="6" height="96" rx="3" fill="#f1e05a">
-              <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-1.30s" repeatCount="indefinite"/>
-            </rect>
-            <text x="72" y="4803" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">Ubuntu-Theme</text>
-            <text x="269.6" y="4803" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· JavaScript</text>
-            <text x="72" y="4839" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577"></text>
-          </g>
+        <text x="48" y="4852" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#a78bfa">Feb</text>
+        <text x="110" y="4852" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">2 repos</text>
+        <line x1="188" y1="4842" x2="888" y2="4842" stroke="#1a2233" stroke-width="0.5" opacity="0.6"/>
           <g>
             <rect x="48" y="4868" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
             <rect x="48" y="4868" width="840" height="96" rx="8" fill="#ffffff" opacity="0.02"/>
-            <rect x="48" y="4868" width="6" height="96" rx="3" fill="#563d7c">
+            <rect x="48" y="4868" width="6" height="96" rx="3" fill="#f1e05a">
               <animate attributeName="opacity" values="0.7;1;0.7" dur="5s" begin="-1.80s" repeatCount="indefinite"/>
             </rect>
-            <text x="72" y="4908" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">simple-digital-business-card</text>
-            <text x="514.4000000000001" y="4908" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· CSS</text>
-            <text x="72" y="4944" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577">Deploy digital business card in Firebase</text>
+            <text x="72" y="4908" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="26" font-weight="600" fill="#e6ecf5">Ubuntu-Theme</text>
+            <text x="269.6" y="4908" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="20" fill="#5b6577">· JavaScript</text>
+            <text x="72" y="4944" font-family="ui-sans-serif, -apple-system, Inter, system-ui, sans-serif" font-size="26" fill="#5b6577"></text>
           </g>
           <g>
             <rect x="48" y="4973" width="840" height="96" rx="8" fill="#0a0d18" stroke="#1a2233" stroke-width="1"/>
