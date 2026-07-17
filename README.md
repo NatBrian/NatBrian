@@ -15,7 +15,7 @@
 - [**artist-popularity-m3u8-playlist-generator**](https://github.com/NatBrian/artist-popularity-m3u8-playlist-generator) — Pipeline that builds two 1500-track M3U8 playlists (popularity-first + deep cuts) from an ordered artist taxonomy. Aggregates iTunes & Deezer data, ranks tracks, enforces zero-overlap, validates structure, and supports precise per-artist quota control via CSV with priority-based allocation logic • `Python` • ★ 0 • 🍴 0 • Topics: deezer, itunes, m3u8, m3u8-playlist, music, playlist, song, youtube, youtube-music, youtube-playlist
 - [**auto-research-finance**](https://github.com/NatBrian/auto-research-finance) — Autonomous, auditable quantitative finance agents orchestrated via Claude Code. Implements MCP-based tooling, multi-agent trading debates, arXiv-to-factor pipelines for reproducible financial research, and comprehensive financial report. • `Python` • ★ 0 • 🍴 1
 - [**chrome-llm-automation**](https://github.com/NatBrian/chrome-llm-automation) — Chrome Extension for agentic browser automation. Runs entirely in the Side Panel using Set-of-Marks (SoM) grounding for reliable, high-precision observation and action. Powered by LLMs your choice. • `TypeScript` • ★ 0 • 🍴 0
-- [**chronica**](https://github.com/NatBrian/chronica) — World sim that thinks: LLM-powered kings scheme, war, and write history across 500 years on a deterministic fantasy island. Click any chronicle paragraph to travel back and watch it unfold. Observer only, zero backend, in your browser as a static page. A single HTML file, deploy anywhere, no server. • `TypeScript` • ★ 0 • 🍴 0 • Topics: canvas2d, fantasy, game, llm, ollama, procedural-generation, simulation, typescript, vite, world-simulation
+- [**chronica**](https://github.com/NatBrian/chronica) — World sim that thinks: LLM-powered kings scheme, war, and write history across 500 years on a fantasy island. Click any chronicle paragraph to travel back and watch it unfold. Observer only, zero backend, in your browser. Enjoy the full experience. • `TypeScript` • ★ 0 • 🍴 0 • Topics: canvas2d, fantasy, game, llm, ollama, procedural-generation, simulation, typescript, vite, world-simulation
 - [**compiled-wiki-lifecycle**](https://github.com/NatBrian/compiled-wiki-lifecycle) — Paper + experiments: compiled-wiki lifecycle with 4 stages (compile, certify, maintain, retract) for LLM-compiled wikis, providing certified correctness guarantees over evolving corpora. Includes minimal llm-wiki implementation. • `Python` • ★ 0 • 🍴 0 • Topics: karpathy-llm-wiki, knowledge-base, knowledge-compilation, large-language-models, llm, llm-wiki, machine-unlearning, nlp, not-peer-reviewed, preprint, rag, reproducible-research, research-paper, retrieval-augmented-generation, statistical-certification, wiki
 - [**dns-whitelist**](https://github.com/NatBrian/dns-whitelist) • `Unknown` • ★ 0 • 🍴 0
 - [**Dyslexia-Web-Reader**](https://github.com/NatBrian/Dyslexia-Web-Reader) — Help dyslexia struggle via Chrome Extension (Manifest V3) that converts web articles into a distraction-free reader view with adjustable typography, guided reading, text-to-speech, and optional LLM-powered simplification. • `TypeScript` • ★ 0 • 🍴 1
@@ -108,7 +108,7 @@
 </details>
 
 
-_Last updated: 2026-07-16T01:46:57.328Z_
+_Last updated: 2026-07-17T01:50:12.383Z_
 
 <!-- REPO_LIST_END -->
 
