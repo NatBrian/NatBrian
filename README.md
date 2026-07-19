@@ -10,6 +10,7 @@
 <details>
 <summary><strong>2026</strong> — 19 repos</summary>
 
+- [**image-token-compression**](https://github.com/NatBrian/image-token-compression) — LLM token compression via images: a transparent Antrhopic/OpenAI proxy that renders agent context (system prompt, tool docs, tool output, history) to pixels, so coding-agent CLIs like OpenCode send far fewer input tokens. Keeps tool calls and multi-turn intact. ~39% fewer tokens on real runs. • `Python` • ★ 1 • 🍴 0 • Topics: agentic-ai, claude-code, codex, context-compression, llm, openai-compatible, opencode, opencode-plugin, prompt-compression, proxy, token-compression, token-optimization, vision-language-model
 - [**LLMTradingAgents**](https://github.com/NatBrian/LLMTradingAgents) — LLMTradingAgents is an automated trading system that orchestrates competition between different Large Language Models (LLMs). It uses a 3-agent architecture to analyze market data, propose trades, and validate risk. • `Python` • ★ 1 • 🍴 0 • Topics: ai-agents, cryptocurrency, finance, langchain, llm, marketing-analytics, stock, trading, trading-algorithms, vite
 - [**nashville-traffic-stop-bias-analysis**](https://github.com/NatBrian/nashville-traffic-stop-bias-analysis) — End-to-end analysis of racial bias in Nashville Police Department traffic stops using interpretable machine learning, statistical tests, and fairness audits • `Jupyter Notebook` • ★ 1 • 🍴 0
 - [**artist-popularity-m3u8-playlist-generator**](https://github.com/NatBrian/artist-popularity-m3u8-playlist-generator) — Pipeline that builds two 1500-track M3U8 playlists (popularity-first + deep cuts) from an ordered artist taxonomy. Aggregates iTunes & Deezer data, ranks tracks, enforces zero-overlap, validates structure, and supports precise per-artist quota control via CSV with priority-based allocation logic • `Python` • ★ 0 • 🍴 0 • Topics: deezer, itunes, m3u8, m3u8-playlist, music, playlist, song, youtube, youtube-music, youtube-playlist
@@ -20,7 +21,6 @@
 - [**dns-whitelist**](https://github.com/NatBrian/dns-whitelist) • `Unknown` • ★ 0 • 🍴 0
 - [**Dyslexia-Web-Reader**](https://github.com/NatBrian/Dyslexia-Web-Reader) — Help dyslexia struggle via Chrome Extension (Manifest V3) that converts web articles into a distraction-free reader view with adjustable typography, guided reading, text-to-speech, and optional LLM-powered simplification. • `TypeScript` • ★ 0 • 🍴 1
 - [**HT-VideoGraph**](https://github.com/NatBrian/HT-VideoGraph) — HT-VideoGraph is the first Hierarchical Temporal Knowledge Graph (HTKG) for long video understanding. It addresses the fundamental limitations of current video RAG methods by modeling videos at multiple temporal granularities with multi-modal feature preservation. • `Python` • ★ 0 • 🍴 0
-- [**image-token-compression**](https://github.com/NatBrian/image-token-compression) — LLM token compression via images: a transparent Antrhopic/OpenAI proxy that renders agent context (system prompt, tool docs, tool output, history) to pixels, so coding-agent CLIs like OpenCode send far fewer input tokens. Keeps tool calls and multi-turn intact. ~39% fewer tokens on real runs. • `Python` • ★ 0 • 🍴 0 • Topics: agentic-ai, claude-code, codex, context-compression, llm, openai-compatible, opencode, opencode-plugin, prompt-compression, proxy, token-compression, token-optimization, vision-language-model
 - [**llm-vs-house**](https://github.com/NatBrian/llm-vs-house) — Can LLMs beat pure luck? Benchmark AI against mathematically unwinnable casino games through real reproducible experiments. Evaluate reasoning under randomness with ROI analysis, bankroll dynamics, statistical significance testing, expected value, house edge, and long-run outcome distributions. • `JavaScript` • ★ 0 • 🍴 0 • Topics: baccarat, benchmark, casino, game, llm, random, roulette, roulette-game, sicbo, slot-machine, slots
 - [**mochi-llm-pet**](https://github.com/NatBrian/mochi-llm-pet) — Mochi is a transparent AI desktop companion powered by multimodal LLMs. It understands your screen, windows, active apps, and cursor, then reacts in character walking, watching, sleeping, sulking, and building long-term memories that shape its evolving personality. • `Python` • ★ 0 • 🍴 0 • Topics: ai-pet, dekstop-ai, llm, pet, pet-project, virtual-pet, virtualpet
 - [**nbme-qlora-ensemble**](https://github.com/NatBrian/nbme-qlora-ensemble) — Generative SLM Ensemble for NBME Clinical Span Extraction (0.732 F1). Novel 3-phase pipeline: (1) RAG-guided Qwen3-8B pseudo-labeling, (2) Sequential QLoRA fine-tuning of 4 diverse SLMs, (3) FSM-constrained inference + char-level voting. Outperforms baselines by +0.222 F1. Includes adapters, vLLM optimization for 2xT4, and full ablation code. • `Jupyter Notebook` • ★ 0 • 🍴 0 • Topics: faiss, jupyter-notebook, kaggle, kaggle-competition, llm, lora, nbme, peft-fine-tuning-llm, rag
@@ -61,13 +61,12 @@
 </details>
 
 <details>
-<summary><strong>2023</strong> — 6 repos</summary>
+<summary><strong>2023</strong> — 5 repos</summary>
 
 - [**NewsFront**](https://github.com/NatBrian/NewsFront) — Classic News WebApp • `JavaScript` • ★ 2 • 🍴 0 • Topics: news, newsapi, newsapp
 - [**NatBrian**](https://github.com/NatBrian/NatBrian) • `Unknown` • ★ 0 • 🍴 0
 - [**scrollscape**](https://github.com/NatBrian/scrollscape) — Endless Photos Scrolling • `JavaScript` • ★ 0 • 🍴 0
 - [**trading-simulation**](https://github.com/NatBrian/trading-simulation) — A high-throughput trading simulation for calculating OHLC summaries from large transaction volumes. Built with a Go app server, it leverages Kafka for asynchronous message queuing and Redis for fast data persistence. Features include Protobuf for data serialization, Dockerized infrastructure, and an API for bulk transaction. • `Go` • ★ 0 • 🍴 0
-- [**Ubuntu-Theme**](https://github.com/NatBrian/Ubuntu-Theme) • `JavaScript` • ★ 0 • 🍴 0
 - [**whatsapp-chatgpt**](https://github.com/NatBrian/whatsapp-chatgpt) • `Python` • ★ 0 • 🍴 0
 
 </details>
@@ -108,7 +107,7 @@
 </details>
 
 
-_Last updated: 2026-07-18T01:40:38.535Z_
+_Last updated: 2026-07-19T01:48:37.553Z_
 
 <!-- REPO_LIST_END -->
 
