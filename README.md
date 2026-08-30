@@ -8,7 +8,7 @@
 <!-- REPO_LIST_START -->
 
 <details>
-<summary><strong>2026</strong> — 20 repos</summary>
+<summary><strong>2026</strong> — 21 repos</summary>
 
 - [**mochi-llm-pet**](https://github.com/NatBrian/mochi-llm-pet) — Mochi is a transparent AI desktop companion powered by multimodal LLMs. It understands your screen, windows, active apps, and cursor, then reacts in character walking, watching, sleeping, sulking, and building long-term memories that shape its evolving personality. • `Python` • ★ 6 • 🍴 0 • Topics: ai-pet, dekstop-ai, llm, pet, pet-project, virtual-pet, virtualpet
 - [**image-token-compression**](https://github.com/NatBrian/image-token-compression) — LLM token compression via images: a transparent Antrhopic/OpenAI proxy that renders agent context (system prompt, tool docs, tool output, history) to pixels, so coding-agent CLIs like OpenCode send far fewer input tokens. Keeps tool calls and multi-turn intact. ~39% fewer tokens on real runs. • `Python` • ★ 2 • 🍴 0 • Topics: agentic-ai, claude-code, codex, context-compression, llm, openai-compatible, opencode, opencode-plugin, prompt-compression, proxy, token-compression, token-optimization, vision-language-model
@@ -20,6 +20,7 @@
 - [**chrome-llm-automation**](https://github.com/NatBrian/chrome-llm-automation) — Chrome Extension for agentic browser automation. Runs entirely in the Side Panel using Set-of-Marks (SoM) grounding for reliable, high-precision observation and action. Powered by LLMs your choice. • `TypeScript` • ★ 0 • 🍴 0
 - [**chronica**](https://github.com/NatBrian/chronica) — World sim that thinks: LLM-powered kings scheme, war, and write history across 500 years on a fantasy island. Click any chronicle paragraph to travel back and watch it unfold. Observer only, zero backend, in your browser. Enjoy the full experience. • `TypeScript` • ★ 0 • 🍴 0 • Topics: canvas2d, fantasy, game, llm, ollama, procedural-generation, simulation, typescript, vite, world-simulation
 - [**compiled-wiki-lifecycle**](https://github.com/NatBrian/compiled-wiki-lifecycle) — Paper + experiments: compiled-wiki lifecycle with 4 stages (compile, certify, maintain, retract) for LLM-compiled wikis, providing certified correctness guarantees over evolving corpora. Includes minimal llm-wiki implementation. • `Python` • ★ 0 • 🍴 0 • Topics: karpathy-llm-wiki, knowledge-base, knowledge-compilation, large-language-models, llm, llm-wiki, machine-unlearning, nlp, not-peer-reviewed, preprint, rag, reproducible-research, research-paper, retrieval-augmented-generation, statistical-certification, wiki
+- [**cost-aware-agent**](https://github.com/NatBrian/cost-aware-agent) — Cost-metering harness for CLI coding agents. It tracks the real dollar cost of a session and reports it back to the agent in real time, so the agent can weigh whether its next action is worth the money the way a human engineer does • `Python` • ★ 0 • 🍴 0 • Topics: claude-code, codex, cost-optimization, cost-tracking, harness, harness-ai, opencode, plugins
 - [**dns-whitelist**](https://github.com/NatBrian/dns-whitelist) • `Unknown` • ★ 0 • 🍴 0
 - [**Dyslexia-Web-Reader**](https://github.com/NatBrian/Dyslexia-Web-Reader) — Help dyslexia struggle via Chrome Extension (Manifest V3) that converts web articles into a distraction-free reader view with adjustable typography, guided reading, text-to-speech, and optional LLM-powered simplification. • `TypeScript` • ★ 0 • 🍴 1
 - [**HT-VideoGraph**](https://github.com/NatBrian/HT-VideoGraph) — HT-VideoGraph is the first Hierarchical Temporal Knowledge Graph (HTKG) for long video understanding. It addresses the fundamental limitations of current video RAG methods by modeling videos at multiple temporal granularities with multi-modal feature preservation. • `Python` • ★ 0 • 🍴 0
@@ -108,7 +109,7 @@
 </details>
 
 
-_Last updated: 2026-08-29T04:51:30.984Z_
+_Last updated: 2026-08-30T02:32:58.235Z_
 
 <!-- REPO_LIST_END -->
 
