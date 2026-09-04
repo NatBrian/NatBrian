@@ -37,6 +37,7 @@
 <details>
 <summary><strong>2025</strong> — 13 repos</summary>
 
+- [**T-ECD-Sequential-Recommender**](https://github.com/NatBrian/T-ECD-Sequential-Recommender) — Sequential Recommender (SASRec/GRU) benchmarking the T-ECD dataset (9.2M events). Features interactive testing dashboards, 2D/3D cross-domain embedding visualizations, and impact analysis. • `Jupyter Notebook` • ★ 1 • 🍴 0 • Topics: embeddings, gru, gru4rec, notebook, pytorch, recommendation-system, recommender-system, rnn, sasrec, transformer
 - [**wildlife-camera-trap-ai-system**](https://github.com/NatBrian/wildlife-camera-trap-ai-system) — AI-powered wildlife monitoring system powered by YOLOv8, with real-time detection and automatic video recording on the edge device. Metadata and thumbnails sync to a web dashboard for easy browsing and filtering. • `Jupyter Notebook` • ★ 1 • 🍴 0 • Topics: ai, animal, bird, camera, computer-vision, edge, onnx, wildlife, yolo
 - [**AeroFighters-SNES-reinforce-learning**](https://github.com/NatBrian/AeroFighters-SNES-reinforce-learning) — Reinforce Learning AeroFighter Snes game using Gym Retro • `Python` • ★ 0 • 🍴 0 • Topics: arcade, dqn, game, gym, ppo, reinforcement-learning, retro, snes
 - [**AgenticReqToDesign**](https://github.com/NatBrian/AgenticReqToDesign) — Agentic AI transforming Business Requirements into Technical Detailed Design • `HTML` • ★ 0 • 🍴 0 • Topics: agentic-ai, ai, artificial-intelligence, autogen, gemini
@@ -48,7 +49,6 @@
 - [**mediapipe-hand-recognition**](https://github.com/NatBrian/mediapipe-hand-recognition) — Hand recognition system using MediaPipe for real-time hand tracking, static hand-sign classification, dynamic movement classification, and data collection for training custom ML models. • `Jupyter Notebook` • ★ 0 • 🍴 2 • Topics: handgesture-recognition, machine-learning, mediapipe, ml, supervised-learning
 - [**mini-rl-zoo**](https://github.com/NatBrian/mini-rl-zoo) — Educational RL framework with Q-learning, SARSA, DQN, A2C, and PPO implementations. Features multi-seed experimentation, automated analytics, and visualization for algorithm comparison. • `Python` • ★ 0 • 🍴 0 • Topics: cartpole, dqn, frozenlake, lunar-lander, pusher, q-learning, reinforcement-learning
 - [**pong-ai**](https://github.com/NatBrian/pong-ai) — A modern arcade classic fused with generative AI. Battle a digital opponent as Google Gemini (via Genkit) dynamically mutates the game after every point you score. Experience unpredictable shifts in gravity, physics, and scale in real-time. Where retro gameplay meets alchemical AI transformation. • `TypeScript` • ★ 0 • 🍴 0 • Topics: arcade, gemini, generative-ai, llm, pong
-- [**T-ECD-Sequential-Recommender**](https://github.com/NatBrian/T-ECD-Sequential-Recommender) — Sequential Recommender (SASRec/GRU) benchmarking the T-ECD dataset (9.2M events). Features interactive testing dashboards, 2D/3D cross-domain embedding visualizations, and impact analysis. • `Jupyter Notebook` • ★ 0 • 🍴 0 • Topics: embeddings, gru, gru4rec, notebook, pytorch, recommendation-system, recommender-system, rnn, sasrec, transformer
 - [**web-image-gallery**](https://github.com/NatBrian/web-image-gallery) — A lightweight web application to extract all image URLs from a given website and display them in a dynamic, responsive gallery with infinite scrolling • `JavaScript` • ★ 0 • 🍴 0
 
 </details>
@@ -109,7 +109,7 @@
 </details>
 
 
-_Last updated: 2026-09-03T02:08:30.659Z_
+_Last updated: 2026-09-04T02:04:56.185Z_
 
 <!-- REPO_LIST_END -->
 
