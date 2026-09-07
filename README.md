@@ -10,7 +10,7 @@
 <details>
 <summary><strong>2026</strong> — 21 repos</summary>
 
-- [**mochi-llm-pet**](https://github.com/NatBrian/mochi-llm-pet) — Mochi is a transparent AI desktop companion powered by multimodal LLMs. It understands your screen, windows, active apps, and cursor, then reacts in character walking, watching, sleeping, sulking, and building long-term memories that shape its evolving personality. • `Python` • ★ 7 • 🍴 0 • Topics: ai-pet, dekstop-ai, llm, pet, pet-project, virtual-pet, virtualpet
+- [**mochi-llm-pet**](https://github.com/NatBrian/mochi-llm-pet) — Mochi is a transparent AI desktop companion powered by multimodal LLMs. It understands your screen, windows, active apps, and cursor, then reacts in character walking, watching, sleeping, sulking, and building long-term memories that shape its evolving personality. • `Python` • ★ 8 • 🍴 0 • Topics: ai-pet, dekstop-ai, llm, pet, pet-project, virtual-pet, virtualpet
 - [**image-token-compression**](https://github.com/NatBrian/image-token-compression) — LLM token compression via images: a transparent Antrhopic/OpenAI proxy that renders agent context (system prompt, tool docs, tool output, history) to pixels, so coding-agent CLIs like OpenCode send far fewer input tokens. Keeps tool calls and multi-turn intact. ~39% fewer tokens on real runs. • `Python` • ★ 2 • 🍴 0 • Topics: agentic-ai, claude-code, codex, context-compression, llm, openai-compatible, opencode, opencode-plugin, prompt-compression, proxy, token-compression, token-optimization, vision-language-model
 - [**llm-vs-house**](https://github.com/NatBrian/llm-vs-house) — Can LLMs beat pure luck? Benchmark AI against mathematically unwinnable casino games through real reproducible experiments. Evaluate reasoning under randomness with ROI analysis, bankroll dynamics, statistical significance testing, expected value, house edge, and long-run outcome distributions. • `JavaScript` • ★ 1 • 🍴 0 • Topics: baccarat, benchmark, casino, game, llm, random, roulette, roulette-game, sicbo, slot-machine, slots
 - [**LLMTradingAgents**](https://github.com/NatBrian/LLMTradingAgents) — LLMTradingAgents is an automated trading system that orchestrates competition between different Large Language Models (LLMs). It uses a 3-agent architecture to analyze market data, propose trades, and validate risk. • `Python` • ★ 1 • 🍴 0 • Topics: ai-agents, cryptocurrency, finance, langchain, llm, marketing-analytics, stock, trading, trading-algorithms, vite
@@ -109,7 +109,7 @@
 </details>
 
 
-_Last updated: 2026-09-06T02:00:44.023Z_
+_Last updated: 2026-09-07T01:58:15.535Z_
 
 <!-- REPO_LIST_END -->
 
