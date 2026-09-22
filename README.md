@@ -8,7 +8,7 @@
 <!-- REPO_LIST_START -->
 
 <details>
-<summary><strong>2026</strong> — 22 repos</summary>
+<summary><strong>2026</strong> — 23 repos</summary>
 
 - [**mochi-llm-pet**](https://github.com/NatBrian/mochi-llm-pet) — Mochi is a transparent AI desktop companion powered by multimodal LLMs. It understands your screen, windows, active apps, and cursor, then reacts in character walking, watching, sleeping, sulking, and building long-term memories that shape its evolving personality. • `Python` • ★ 12 • 🍴 0 • Topics: ai-pet, dekstop-ai, llm, pet, pet-project, virtual-pet, virtualpet
 - [**image-token-compression**](https://github.com/NatBrian/image-token-compression) — LLM token compression via images: a transparent Antrhopic/OpenAI proxy that renders agent context (system prompt, tool docs, tool output, history) to pixels, so coding-agent CLIs like OpenCode send far fewer input tokens. Keeps tool calls and multi-turn intact. ~39% fewer tokens on real runs. • `Python` • ★ 3 • 🍴 0 • Topics: agentic-ai, claude-code, codex, context-compression, llm, openai-compatible, opencode, opencode-plugin, prompt-compression, proxy, token-compression, token-optimization, vision-language-model
@@ -27,6 +27,7 @@
 - [**HT-VideoGraph**](https://github.com/NatBrian/HT-VideoGraph) — HT-VideoGraph is the first Hierarchical Temporal Knowledge Graph (HTKG) for long video understanding. It addresses the fundamental limitations of current video RAG methods by modeling videos at multiple temporal granularities with multi-modal feature preservation. • `Python` • ★ 0 • 🍴 0
 - [**medical-record-rag**](https://github.com/NatBrian/medical-record-rag) — Privacy-first medical AI. Quote-gated RAG transforms scattered medical records (lab reports and clinic notes) into a searchable longitudinal health history with verifiable citations, semantic search, deterministic extraction, hybrid SQL+RAG retrieval, and local-first architecture. • `TypeScript` • ★ 0 • 🍴 0 • Topics: cloudflare, embeddings, healthcare-ai, llm, medical-rag, rag, rag-pipeline, workers-ai
 - [**nbme-qlora-ensemble**](https://github.com/NatBrian/nbme-qlora-ensemble) — Generative SLM Ensemble for NBME Clinical Span Extraction (0.732 F1). Novel 3-phase pipeline: (1) RAG-guided Qwen3-8B pseudo-labeling, (2) Sequential QLoRA fine-tuning of 4 diverse SLMs, (3) FSM-constrained inference + char-level voting. Outperforms baselines by +0.222 F1. Includes adapters, vLLM optimization for 2xT4, and full ablation code. • `Jupyter Notebook` • ★ 0 • 🍴 0 • Topics: faiss, jupyter-notebook, kaggle, kaggle-competition, llm, lora, nbme, peft-fine-tuning-llm, rag
+- [**pokemon-showdown-jev-agent**](https://github.com/NatBrian/pokemon-showdown-jev-agent) — Autonomous Pokemon Showdown battle agent powered by Jev AI, with a validated poke-env harness, safe fallback decisions, and a live dashboard for transparent battle state, legal moves, probabilities, telemetry, and Jev decision history. • `JavaScript` • ★ 0 • 🍴 0 • Topics: ai-agent, ai-observability, autonomous-agent, battle-ai, decision-engine, fastapi, game-ai, jev, poke-env, pokemon-ai, pokemon-showdown, python, random-battles, telemetry, web-dashboard
 - [**program-as-weights-github**](https://github.com/NatBrian/program-as-weights-github) — Program-as-Weights, reimplemented: compile an English fuzzy-function spec once into a tiny LoRA+pseudo-program a frozen 0.6B model runs offline. Applied to real GitHub issues/PRs. • `Python` • ★ 0 • 🍴 1
 - [**secure-enterprise-rag**](https://github.com/NatBrian/secure-enterprise-rag) — RAG over heterogeneous enterprise data (PDFs, CSV, JSON logs, reports) with role-based access control enforced inside retrieval, forbidden chunks never reach the ranker, reranker, prompt, or LLM. Hybrid BM25+dense+rerank, grounded citations, sanitised refusals, audit log. • `Python` • ★ 0 • 🍴 0
 - [**sudoku-llm-arena**](https://github.com/NatBrian/sudoku-llm-arena) — Train & Benchmarks LLM Sudoku solving on Sakana AI's Sudoku-Bench with multi-step & single-shot evaluation, animated solve visualizations, model comparisons, reports, and LoRA/GRPO post-training experiments to measure how far small local models can close the gap to frontier models. • `Python` • ★ 0 • 🍴 0 • Topics: fine-tuning, finetuning, gpro, lora, small-llm, sudoku, sudoku-solver
@@ -110,7 +111,7 @@
 </details>
 
 
-_Last updated: 2026-09-21T02:26:42.686Z_
+_Last updated: 2026-09-22T02:29:53.875Z_
 
 <!-- REPO_LIST_END -->
 
