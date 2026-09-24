@@ -8,9 +8,9 @@
 <!-- REPO_LIST_START -->
 
 <details>
-<summary><strong>2026</strong> — 24 repos</summary>
+<summary><strong>2026</strong> — 25 repos</summary>
 
-- [**mochi-llm-pet**](https://github.com/NatBrian/mochi-llm-pet) — Mochi is a transparent AI desktop companion powered by multimodal LLMs. It understands your screen, windows, active apps, and cursor, then reacts in character walking, watching, sleeping, sulking, and building long-term memories that shape its evolving personality. • `Python` • ★ 13 • 🍴 0 • Topics: ai-pet, dekstop-ai, llm, pet, pet-project, virtual-pet, virtualpet
+- [**mochi-llm-pet**](https://github.com/NatBrian/mochi-llm-pet) — Mochi is a transparent AI desktop companion powered by multimodal LLMs. It understands your screen, windows, active apps, and cursor, then reacts in character walking, watching, sleeping, sulking, and building long-term memories that shape its evolving personality. • `Python` • ★ 14 • 🍴 0 • Topics: ai-pet, dekstop-ai, llm, pet, pet-project, virtual-pet, virtualpet
 - [**image-token-compression**](https://github.com/NatBrian/image-token-compression) — LLM token compression via images: a transparent Antrhopic/OpenAI proxy that renders agent context (system prompt, tool docs, tool output, history) to pixels, so coding-agent CLIs like OpenCode send far fewer input tokens. Keeps tool calls and multi-turn intact. ~39% fewer tokens on real runs. • `Python` • ★ 3 • 🍴 0 • Topics: agentic-ai, claude-code, codex, context-compression, llm, openai-compatible, opencode, opencode-plugin, prompt-compression, proxy, token-compression, token-optimization, vision-language-model
 - [**llm-vs-house**](https://github.com/NatBrian/llm-vs-house) — Can LLMs beat pure luck? Benchmark AI against mathematically unwinnable casino games through real reproducible experiments. Evaluate reasoning under randomness with ROI analysis, bankroll dynamics, statistical significance testing, expected value, house edge, and long-run outcome distributions. • `JavaScript` • ★ 1 • 🍴 0 • Topics: baccarat, benchmark, casino, game, llm, random, roulette, roulette-game, sicbo, slot-machine, slots
 - [**LLMTradingAgents**](https://github.com/NatBrian/LLMTradingAgents) — LLMTradingAgents is an automated trading system that orchestrates competition between different Large Language Models (LLMs). It uses a 3-agent architecture to analyze market data, propose trades, and validate risk. • `Python` • ★ 1 • 🍴 0 • Topics: ai-agents, cryptocurrency, finance, langchain, llm, marketing-analytics, stock, trading, trading-algorithms, vite
@@ -21,6 +21,7 @@
 - [**auto-research-finance**](https://github.com/NatBrian/auto-research-finance) — Autonomous, auditable quantitative finance agents orchestrated via Claude Code. Implements MCP-based tooling, multi-agent trading debates, arXiv-to-factor pipelines for reproducible financial research, and comprehensive financial report. • `Python` • ★ 0 • 🍴 1
 - [**chrome-llm-automation**](https://github.com/NatBrian/chrome-llm-automation) — Chrome Extension for agentic browser automation. Runs entirely in the Side Panel using Set-of-Marks (SoM) grounding for reliable, high-precision observation and action. Powered by LLMs your choice. • `TypeScript` • ★ 0 • 🍴 0
 - [**chronica**](https://github.com/NatBrian/chronica) — World sim that thinks: LLM-powered kings scheme, war, and write history across 500 years on a fantasy island. Click any chronicle paragraph to travel back and watch it unfold. Observer only, zero backend, in your browser. Enjoy the full experience. • `TypeScript` • ★ 0 • 🍴 0 • Topics: canvas2d, fantasy, game, llm, ollama, procedural-generation, simulation, typescript, vite, world-simulation
+- [**codex-orchestrator-skill**](https://github.com/NatBrian/codex-orchestrator-skill) — Agent workflow rules: phase-aware Superpowers routing, bounded delegation, Luna-safe dispatch, explicit scopes, failure recovery, and root-owned verification for reliable multi-agent work. • `Unknown` • ★ 0 • 🍴 0 • Topics: agent-orchestration, agent-workflows, ai-agents, ai-development, automation, claude-code, codex, delegation, developer-tools, llm, multi-agent, orchestration, prompt-engineering, skills, superpowers
 - [**compiled-wiki-lifecycle**](https://github.com/NatBrian/compiled-wiki-lifecycle) — Paper + experiments: compiled-wiki lifecycle with 4 stages (compile, certify, maintain, retract) for LLM-compiled wikis, providing certified correctness guarantees over evolving corpora. Includes minimal llm-wiki implementation. • `Python` • ★ 0 • 🍴 0 • Topics: karpathy-llm-wiki, knowledge-base, knowledge-compilation, large-language-models, llm, llm-wiki, machine-unlearning, nlp, not-peer-reviewed, preprint, rag, reproducible-research, research-paper, retrieval-augmented-generation, statistical-certification, wiki
 - [**cost-aware-agent**](https://github.com/NatBrian/cost-aware-agent) — Cost-metering harness for CLI coding agents. It tracks the real dollar cost of a session and reports it back to the agent in real time, so the agent can weigh whether its next action is worth the money the way a human engineer does • `Python` • ★ 0 • 🍴 0 • Topics: claude-code, codex, cost-optimization, cost-tracking, harness, harness-ai, opencode, plugins
 - [**dns-whitelist**](https://github.com/NatBrian/dns-whitelist) • `Unknown` • ★ 0 • 🍴 0
@@ -112,7 +113,7 @@
 </details>
 
 
-_Last updated: 2026-09-23T02:29:55.768Z_
+_Last updated: 2026-09-24T02:19:07.441Z_
 
 <!-- REPO_LIST_END -->
 
