@@ -8,7 +8,7 @@
 <!-- REPO_LIST_START -->
 
 <details>
-<summary><strong>2026</strong> — 25 repos</summary>
+<summary><strong>2026</strong> — 26 repos</summary>
 
 - [**mochi-llm-pet**](https://github.com/NatBrian/mochi-llm-pet) — Mochi is a transparent AI desktop companion powered by multimodal LLMs. It understands your screen, windows, active apps, and cursor, then reacts in character walking, watching, sleeping, sulking, and building long-term memories that shape its evolving personality. • `Python` • ★ 15 • 🍴 0 • Topics: ai-pet, dekstop-ai, llm, pet, pet-project, virtual-pet, virtualpet
 - [**image-token-compression**](https://github.com/NatBrian/image-token-compression) — LLM token compression via images: a transparent Antrhopic/OpenAI proxy that renders agent context (system prompt, tool docs, tool output, history) to pixels, so coding-agent CLIs like OpenCode send far fewer input tokens. Keeps tool calls and multi-turn intact. ~39% fewer tokens on real runs. • `Python` • ★ 3 • 🍴 0 • Topics: agentic-ai, claude-code, codex, context-compression, llm, openai-compatible, opencode, opencode-plugin, prompt-compression, proxy, token-compression, token-optimization, vision-language-model
@@ -28,6 +28,7 @@
 - [**Dyslexia-Web-Reader**](https://github.com/NatBrian/Dyslexia-Web-Reader) — Help dyslexia struggle via Chrome Extension (Manifest V3) that converts web articles into a distraction-free reader view with adjustable typography, guided reading, text-to-speech, and optional LLM-powered simplification. • `TypeScript` • ★ 0 • 🍴 1
 - [**eevee-tamagotchi**](https://github.com/NatBrian/eevee-tamagotchi) — Raise a pocket Eevee through a complete life and evolve it into all 9 Eeveelutions. A Tamagotchi PWA with shiny variants, an 18-cell Pokédex, a Poké Casino, 36 medals, and a meadow you can decorate. Installable on your phone, offline, and free to play. • `JavaScript` • ★ 0 • 🍴 0 • Topics: eevee, eeveelutions, fan-game, mobile-first, pixel-art, pokedex, pokemon, progressive-web-app, pwa, shiny-pokemon, tamagotchi, virtual-pet, web-game
 - [**HT-VideoGraph**](https://github.com/NatBrian/HT-VideoGraph) — HT-VideoGraph is the first Hierarchical Temporal Knowledge Graph (HTKG) for long video understanding. It addresses the fundamental limitations of current video RAG methods by modeling videos at multiple temporal granularities with multi-modal feature preservation. • `Python` • ★ 0 • 🍴 0
+- [**jev-touhou**](https://github.com/NatBrian/jev-touhou) — Jev (Laya, Mica) decision-model AI: local, non-autoregressive engines answering probability questions in ~18 ms, no text generation. C sim patch + Python harness drive Taisei (the open-source Touhou engine), per frame: game state in, human-like input out, real-time. Self-host both from Hugging Face. • `Python` • ★ 0 • 🍴 0 • Topics: ai-agent, bullet-hell, danmaku, game-ai, game-bot, jev-ai, laya, maya, replay, self-hosted, shmup, taisei, touhou
 - [**medical-record-rag**](https://github.com/NatBrian/medical-record-rag) — Privacy-first medical AI. Quote-gated RAG transforms scattered medical records (lab reports and clinic notes) into a searchable longitudinal health history with verifiable citations, semantic search, deterministic extraction, hybrid SQL+RAG retrieval, and local-first architecture. • `TypeScript` • ★ 0 • 🍴 0 • Topics: cloudflare, embeddings, healthcare-ai, llm, medical-rag, rag, rag-pipeline, workers-ai
 - [**nbme-qlora-ensemble**](https://github.com/NatBrian/nbme-qlora-ensemble) — Generative SLM Ensemble for NBME Clinical Span Extraction (0.732 F1). Novel 3-phase pipeline: (1) RAG-guided Qwen3-8B pseudo-labeling, (2) Sequential QLoRA fine-tuning of 4 diverse SLMs, (3) FSM-constrained inference + char-level voting. Outperforms baselines by +0.222 F1. Includes adapters, vLLM optimization for 2xT4, and full ablation code. • `Jupyter Notebook` • ★ 0 • 🍴 0 • Topics: faiss, jupyter-notebook, kaggle, kaggle-competition, llm, lora, nbme, peft-fine-tuning-llm, rag
 - [**pokemon-showdown-jev-agent**](https://github.com/NatBrian/pokemon-showdown-jev-agent) — Autonomous Pokemon Showdown battle agent powered by Jev AI (System One Model by TypeSafe AI), with a validated poke-env harness, safe fallback decisions, and a live dashboard for transparent battle state, legal moves, probabilities, telemetry, and Jev decision history. • `JavaScript` • ★ 0 • 🍴 0 • Topics: ai-agent, ai-observability, autonomous-agent, battle-ai, decision-engine, fastapi, game-ai, jev, jev-ai, jev-model, poke-env, pokemon, pokemon-ai, pokemon-showdown, python, random-battles, systemone, telemetry, web-dashboard
@@ -113,7 +114,7 @@
 </details>
 
 
-_Last updated: 2026-09-30T03:05:10.968Z_
+_Last updated: 2026-10-01T03:11:30.820Z_
 
 <!-- REPO_LIST_END -->
 
