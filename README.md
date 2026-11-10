@@ -10,7 +10,7 @@
 <details>
 <summary><strong>2026</strong> — 27 repos</summary>
 
-- [**mochi-llm-pet**](https://github.com/NatBrian/mochi-llm-pet) — Mochi is a transparent AI desktop companion powered by multimodal LLMs. It understands your screen, windows, active apps, and cursor, then reacts in character walking, watching, sleeping, sulking, and building long-term memories that shape its evolving personality. • `Python` • ★ 23 • 🍴 0 • Topics: ai-pet, dekstop-ai, llm, pet, pet-project, virtual-pet, virtualpet
+- [**mochi-llm-pet**](https://github.com/NatBrian/mochi-llm-pet) — Mochi is a transparent AI desktop companion powered by multimodal LLMs. It understands your screen, windows, active apps, and cursor, then reacts in character walking, watching, sleeping, sulking, and building long-term memories that shape its evolving personality. • `Python` • ★ 23 • 🍴 1 • Topics: ai-pet, dekstop-ai, llm, pet, pet-project, virtual-pet, virtualpet
 - [**image-token-compression**](https://github.com/NatBrian/image-token-compression) — LLM token compression via images: a transparent Antrhopic/OpenAI proxy that renders agent context (system prompt, tool docs, tool output, history) to pixels, so coding-agent CLIs like OpenCode send far fewer input tokens. Keeps tool calls and multi-turn intact. ~39% fewer tokens on real runs. • `Python` • ★ 3 • 🍴 0 • Topics: agentic-ai, claude-code, codex, context-compression, llm, openai-compatible, opencode, opencode-plugin, prompt-compression, proxy, token-compression, token-optimization, vision-language-model
 - [**tokengotchi**](https://github.com/NatBrian/tokengotchi) — Tamagotchi for your AI coding terminal: a context-aware virtual pet companion that feeds on LLM tokens and evolves. Tokengotchi watches Claude Code, Codex, Gemini CLI, Qwen, opencode, growing pixel-art creatures (terminal + statusline) that match what you're coding, moods & levels. • `Python` • ★ 2 • 🍴 0 • Topics: buddy, claude-code, code-companion, codex, companion, gemini, opencode, pet, qwen, tamagotchi, terminal, terminal-pet, virtual-pet
 - [**jev-touhou**](https://github.com/NatBrian/jev-touhou) — Jev (Laya, Mica) decision-model AI: local, non-autoregressive engines answering probability questions in ~18 ms, no text generation. C sim patch + Python harness drive Taisei (the open-source Touhou engine), per frame: game state in, human-like input out, real-time. Self-host both from Hugging Face. • `Python` • ★ 1 • 🍴 0 • Topics: ai-agent, bullet-hell, danmaku, game-ai, game-bot, jev-ai, laya, maya, replay, self-hosted, shmup, taisei, touhou
@@ -115,7 +115,7 @@
 </details>
 
 
-_Last updated: 2026-11-09T03:44:42.514Z_
+_Last updated: 2026-11-10T05:18:20.071Z_
 
 <!-- REPO_LIST_END -->
 
