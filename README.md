@@ -8,7 +8,7 @@
 <!-- REPO_LIST_START -->
 
 <details>
-<summary><strong>2026</strong> — 27 repos</summary>
+<summary><strong>2026</strong> — 28 repos</summary>
 
 - [**mochi-llm-pet**](https://github.com/NatBrian/mochi-llm-pet) — Mochi is a transparent AI desktop companion powered by multimodal LLMs. It understands your screen, windows, active apps, and cursor, then reacts in character walking, watching, sleeping, sulking, and building long-term memories that shape its evolving personality. • `Python` • ★ 23 • 🍴 1 • Topics: ai-pet, dekstop-ai, llm, pet, pet-project, virtual-pet, virtualpet
 - [**image-token-compression**](https://github.com/NatBrian/image-token-compression) — LLM token compression via images: a transparent Antrhopic/OpenAI proxy that renders agent context (system prompt, tool docs, tool output, history) to pixels, so coding-agent CLIs like OpenCode send far fewer input tokens. Keeps tool calls and multi-turn intact. ~39% fewer tokens on real runs. • `Python` • ★ 3 • 🍴 0 • Topics: agentic-ai, claude-code, codex, context-compression, llm, openai-compatible, opencode, opencode-plugin, prompt-compression, proxy, token-compression, token-optimization, vision-language-model
@@ -33,6 +33,7 @@
 - [**HT-VideoGraph**](https://github.com/NatBrian/HT-VideoGraph) — HT-VideoGraph is the first Hierarchical Temporal Knowledge Graph (HTKG) for long video understanding. It addresses the fundamental limitations of current video RAG methods by modeling videos at multiple temporal granularities with multi-modal feature preservation. • `Python` • ★ 0 • 🍴 0
 - [**medical-record-rag**](https://github.com/NatBrian/medical-record-rag) — Privacy-first medical AI. Quote-gated RAG transforms scattered medical records (lab reports and clinic notes) into a searchable longitudinal health history with verifiable citations, semantic search, deterministic extraction, hybrid SQL+RAG retrieval, and local-first architecture. • `TypeScript` • ★ 0 • 🍴 0 • Topics: cloudflare, embeddings, healthcare-ai, llm, medical-rag, rag, rag-pipeline, workers-ai
 - [**nbme-qlora-ensemble**](https://github.com/NatBrian/nbme-qlora-ensemble) — Generative SLM Ensemble for NBME Clinical Span Extraction (0.732 F1). Novel 3-phase pipeline: (1) RAG-guided Qwen3-8B pseudo-labeling, (2) Sequential QLoRA fine-tuning of 4 diverse SLMs, (3) FSM-constrained inference + char-level voting. Outperforms baselines by +0.222 F1. Includes adapters, vLLM optimization for 2xT4, and full ablation code. • `Jupyter Notebook` • ★ 0 • 🍴 0 • Topics: faiss, jupyter-notebook, kaggle, kaggle-competition, llm, lora, nbme, peft-fine-tuning-llm, rag
+- [**novel-illustrator**](https://github.com/NatBrian/novel-illustrator) — Portable Codex and Antigravity skill with Python tools for building source-grounded illustrated EPUBs optimized for E-Ink readers. • `Python` • ★ 0 • 🍴 0
 - [**secure-enterprise-rag**](https://github.com/NatBrian/secure-enterprise-rag) — RAG over heterogeneous enterprise data (PDFs, CSV, JSON logs, reports) with role-based access control enforced inside retrieval, forbidden chunks never reach the ranker, reranker, prompt, or LLM. Hybrid BM25+dense+rerank, grounded citations, sanitised refusals, audit log. • `Python` • ★ 0 • 🍴 0
 - [**sudoku-llm-arena**](https://github.com/NatBrian/sudoku-llm-arena) — Train & Benchmarks LLM Sudoku solving on Sakana AI's Sudoku-Bench with multi-step & single-shot evaluation, animated solve visualizations, model comparisons, reports, and LoRA/GRPO post-training experiments to measure how far small local models can close the gap to frontier models. • `Python` • ★ 0 • 🍴 0 • Topics: fine-tuning, finetuning, gpro, lora, small-llm, sudoku, sudoku-solver
 - [**wearable-health-agent**](https://github.com/NatBrian/wearable-health-agent) — Agentic illness triage from smartwatch data. Detects overnight physiological deviations, decides by expected information gain if one question is worth interrupting you, can order a watch measurement, returns a source-grounded differential. LLM + Bayesian belief state + RAG. • `Python` • ★ 0 • 🍴 0 • Topics: agentic-ai, anomaly-detection, bayesian-inference, clinical-decision-support, digital-health, early-warning, health, health-informatics, health-monitoring, healthcare, langgraph, llm, llm-agent, personal-health, rag, samsung-health, smartwatch, time-series, wearable, wearables
@@ -115,7 +116,7 @@
 </details>
 
 
-_Last updated: 2026-11-19T05:06:49.020Z_
+_Last updated: 2026-11-20T04:56:15.771Z_
 
 <!-- REPO_LIST_END -->
 
